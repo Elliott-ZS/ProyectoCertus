@@ -1,0 +1,4827 @@
+[
+    {
+        "nombre":"FARMACIA ROMA",
+        "Latitud":32.46972516,
+        "Longitud":-116.84538256
+    },
+    {
+        "nombre":"FARMACIA ROMA",
+        "Latitud":32.49024805,
+        "Longitud":-116.90541682
+    },
+    {
+        "nombre":"FARMACIA ROMA",
+        "Latitud":32.51123932,
+        "Longitud":-116.90692333
+    },
+    {
+        "nombre":"FARMACIA ROMA",
+        "Latitud":32.46109348,
+        "Longitud":-116.96526966
+    },
+    {
+        "nombre":"FARMACIA ROMA",
+        "Latitud":32.52365439,
+        "Longitud":-116.89077557
+    },
+    {
+        "nombre":"FARMACIA ROMA",
+        "Latitud":32.50363348,
+        "Longitud":-116.9728644
+    },
+    {
+        "nombre":"FARMACIA ROMA",
+        "Latitud":32.50139616,
+        "Longitud":-116.89235805
+    },
+    {
+        "nombre":"FARMACIA ROMA",
+        "Latitud":32.53022747,
+        "Longitud":-117.02543741
+    },
+    {
+        "nombre":"FARMACIA ROMA 5 Y 10",
+        "Latitud":32.49858549,
+        "Longitud":-116.96616133
+    },
+    {
+        "nombre":"FARMACIA ROMA ALBA ROJA",
+        "Latitud":32.49768167,
+        "Longitud":-116.97385548
+    },
+    {
+        "nombre":"FARMACIA ROMA AV PASEO ENSENADA PLAYAS",
+        "Latitud":32.52305756,
+        "Longitud":-117.11595815
+    },
+    {
+        "nombre":"FARMACIA ROMA BENITO JUAREZ",
+        "Latitud":32.36687696,
+        "Longitud":-117.06028999
+    },
+    {
+        "nombre":"FARMACIA ROMA BICENTENARIO",
+        "Latitud":32.48955666,
+        "Longitud":-116.91699336
+    },
+    {
+        "nombre":"FARMACIA ROMA CALLE 3RA",
+        "Latitud":32.53320024,
+        "Longitud":-117.04716099
+    },
+    {
+        "nombre":"FARMACIA ROMA CALZADA GUADALUPE",
+        "Latitud":32.49261534,
+        "Longitud":-116.95609846
+    },
+    {
+        "nombre":"FARMACIA ROMA CAMPESTRE",
+        "Latitud":32.51246311,
+        "Longitud":-117.00323844
+    },
+    {
+        "nombre":"FARMACIA ROMA CASA BLANCA",
+        "Latitud":32.50126173,
+        "Longitud":-116.89224735
+    },
+    {
+        "nombre":"FARMACIA ROMA CENTRO CALLE 5TA",
+        "Latitud":32.53171534,
+        "Longitud":-117.03804295
+    },
+    {
+        "nombre":"FARMACIA ROMA CENTRO COMERCIAL PLAZA EL REFUGIO",
+        "Latitud":32.46148419,
+        "Longitud":-116.88048733
+    },
+    {
+        "nombre":"FARMACIA ROMA CENTRO MEDICO LIBERTAD",
+        "Latitud":32.53721551,
+        "Longitud":-117.01509294
+    },
+    {
+        "nombre":"FARMACIA ROMA CHAPULTEPEC",
+        "Latitud":32.51139691,
+        "Longitud":-117.01325845
+    },
+    {
+        "nombre":"FARMACIA ROMA COLORADO MATAMOROS",
+        "Latitud":32.49835023,
+        "Longitud":-116.89023298
+    },
+    {
+        "nombre":"FARMACIA ROMA CONQUSITADOR",
+        "Latitud":32.51349589,
+        "Longitud":-117.00858998
+    },
+    {
+        "nombre":"FARMACIA ROMA CORREDOR 2000",
+        "Latitud":32.49694874,
+        "Longitud":-116.84983745
+    },
+    {
+        "nombre":"FARMACIA ROMA EL DORADO",
+        "Latitud":32.48994098,
+        "Longitud":-116.85503724
+    },
+    {
+        "nombre":"FARMACIA ROMA FUNDADORES",
+        "Latitud":32.49264489,
+        "Longitud":-117.03094177
+    },
+    {
+        "nombre":"FARMACIA ROMA GUAYCURA",
+        "Latitud":32.48983833,
+        "Longitud":-116.91672272
+    },
+    {
+        "nombre":"FARMACIA ROMA HIPODROMO",
+        "Latitud":32.50796368,
+        "Longitud":-116.99950078
+    },
+    {
+        "nombre":"FARMACIA ROMA INDEPENDENCIA",
+        "Latitud":31.86032164,
+        "Longitud":-116.60648373
+    },
+    {
+        "nombre":"FARMACIA ROMA INDEPENDENCIA CALLE 9NA",
+        "Latitud":32.52674167,
+        "Longitud":-117.04514697
+    },
+    {
+        "nombre":"FARMACIA ROMA JUSTO SIERRA",
+        "Latitud":32.65792591,
+        "Longitud":-115.45232759
+    },
+    {
+        "nombre":"FARMACIA ROMA LA GLORIA",
+        "Latitud":32.44441319,
+        "Longitud":-117.01460882
+    },
+    {
+        "nombre":"FARMACIA ROMA LA MESA",
+        "Latitud":32.50530333,
+        "Longitud":-116.97772025
+    },
+    {
+        "nombre":"FARMACIA ROMA LA PAJARITA SANTA FE",
+        "Latitud":32.44378961,
+        "Longitud":-117.03566944
+    },
+    {
+        "nombre":"FARMACIA ROMA LAS CALIFORNIAS",
+        "Latitud":32.53913288,
+        "Longitud":-116.99611061
+    },
+    {
+        "nombre":"FARMACIA ROMA LAS FUENTES",
+        "Latitud":32.46950911,
+        "Longitud":-116.84597638
+    },
+    {
+        "nombre":"FARMACIA ROMA LATINOS",
+        "Latitud":32.46859987,
+        "Longitud":-116.95370465
+    },
+    {
+        "nombre":"FARMACIA ROMA LIMON LIBERTAD",
+        "Latitud":32.53060136,
+        "Longitud":-117.01169318
+    },
+    {
+        "nombre":"FARMACIA ROMA LOMA BONITA",
+        "Latitud":32.48310701,
+        "Longitud":-117.0503078
+    },
+    {
+        "nombre":"FARMACIA ROMA LOMAS DEL REFUGIO",
+        "Latitud":32.45654608,
+        "Longitud":-116.82645053
+    },
+    {
+        "nombre":"FARMACIA ROMA MADERO",
+        "Latitud":32.66543352,
+        "Longitud":-115.47781165
+    },
+    {
+        "nombre":"FARMACIA ROMA MAGISTERIAL",
+        "Latitud":32.54378708,
+        "Longitud":-116.9040109
+    },
+    {
+        "nombre":"FARMACIA ROMA MAZATLAN",
+        "Latitud":32.34541667,
+        "Longitud":-117.0496726
+    },
+    {
+        "nombre":"FARMACIA ROMA MIRADOR",
+        "Latitud":32.52905442,
+        "Longitud":-117.08938344
+    },
+    {
+        "nombre":"FARMACIA ROMA MURUA",
+        "Latitud":32.52395193,
+        "Longitud":-116.92551382
+    },
+    {
+        "nombre":"FARMACIA ROMA PALACIO",
+        "Latitud":32.57272339,
+        "Longitud":-116.62586788
+    },
+    {
+        "nombre":"FARMACIA ROMA PASEO DE LOS HEROES",
+        "Latitud":32.53026312,
+        "Longitud":-117.02548603
+    },
+    {
+        "nombre":"FARMACIA ROMA PLAZA CORTEZ SANCHEZ TABOADA",
+        "Latitud":32.47735112,
+        "Longitud":-116.96930824
+    },
+    {
+        "nombre":"FARMACIA ROMA PLAZA DORADA OTAY",
+        "Latitud":32.53506389,
+        "Longitud":-116.93312773
+    },
+    {
+        "nombre":"FARMACIA ROMA PLAZA GIRAMAR JUAREZ",
+        "Latitud":32.36690155,
+        "Longitud":-117.06029591
+    },
+    {
+        "nombre":"FARMACIA ROMA PLAZA MISION SOLER",
+        "Latitud":32.52986729,
+        "Longitud":-117.07370752
+    },
+    {
+        "nombre":"FARMACIA ROMA PLAZA ROMA MATAMOROS",
+        "Latitud":32.4800106,
+        "Longitud":-116.88030095
+    },
+    {
+        "nombre":"FARMACIA ROMA PORTICOS",
+        "Latitud":31.7831961,
+        "Longitud":-116.58512774
+    },
+    {
+        "nombre":"FARMACIA ROMA REFORMA",
+        "Latitud":31.83686014,
+        "Longitud":-116.60210276
+    },
+    {
+        "nombre":"FARMACIA ROMA RIBERA DEL BOSQUE",
+        "Latitud":32.53049004,
+        "Longitud":-116.87351717
+    },
+    {
+        "nombre":"FARMACIA ROMA RIO SANCHEZ TABOADA",
+        "Latitud":32.52994758,
+        "Longitud":-117.02844275
+    },
+    {
+        "nombre":"FARMACIA ROMA SALVATIERRA",
+        "Latitud":32.48378021,
+        "Longitud":-117.06788161
+    },
+    {
+        "nombre":"FARMACIA ROMA SAN JUAN CONSTITUCION",
+        "Latitud":32.36582056,
+        "Longitud":-117.05394969
+    },
+    {
+        "nombre":"FARMACIA ROMA SANTA BARBARA",
+        "Latitud":32.64677192,
+        "Longitud":-115.52287049
+    },
+    {
+        "nombre":"FARMACIA ROMA SIMON BOLIVAR",
+        "Latitud":32.46347316,
+        "Longitud":-116.92408979
+    },
+    {
+        "nombre":"FARMACIA ROMA SMMT",
+        "Latitud":32.5143474,
+        "Longitud":-117.0576586
+    },
+    {
+        "nombre":"FARMACIA ROMA TERAN TERAN",
+        "Latitud":32.52362323,
+        "Longitud":-116.89074332
+    },
+    {
+        "nombre":"FARMACIA ROMA TERRAZAS DEL VALLE",
+        "Latitud":32.48936909,
+        "Longitud":-116.8277048
+    },
+    {
+        "nombre":"FARMACIA ROMA TOMAS AQUINO",
+        "Latitud":32.52898793,
+        "Longitud":-116.9825639
+    },
+    {
+        "nombre":"FARMACIA ROMA TORRE AGUACALIENTE",
+        "Latitud":32.52291925,
+        "Longitud":-117.03232596
+    },
+    {
+        "nombre":"FARMACIA ROMA TROPICANA CACHO",
+        "Latitud":32.51690989,
+        "Longitud":-117.02129392
+    },
+    {
+        "nombre":"FARMACIA ROMA URBI VILLAS DEL PRADO",
+        "Latitud":32.42518076,
+        "Longitud":-116.96522962
+    },
+    {
+        "nombre":"FARMACIA ROMA VILLA",
+        "Latitud":32.51436911,
+        "Longitud":-117.05766514
+    },
+    {
+        "nombre":"FARMACIA ROMA VILLAFLORESTA",
+        "Latitud":32.47890097,
+        "Longitud":-116.9370915
+    },
+    {
+        "nombre":"FARMACIA ROMA VILLAFONTANA",
+        "Latitud":32.51379155,
+        "Longitud":-116.8679999
+    },
+    {
+        "nombre":"FARMACIA ROMA VISTA HERMOSA",
+        "Latitud":31.81436666,
+        "Longitud":-116.59755992
+    },
+    {
+        "nombre":"FARMACIAS MODERNAS DE TIJUANA ROMA",
+        "Latitud":32.4894523,
+        "Longitud":-116.82778092
+    },
+    {
+        "nombre":"FARMACIAS ROMA",
+        "Latitud":32.49722301,
+        "Longitud":-116.84971984
+    },
+    {
+        "nombre":"FARMACIAS ROMA",
+        "Latitud":32.57525541,
+        "Longitud":-116.61287719
+    },
+    {
+        "nombre":"FARMACIAS ROMA",
+        "Latitud":31.72382558,
+        "Longitud":-116.57387156
+    },
+    {
+        "nombre":"FARMACIAS ROMA ALAMAR",
+        "Latitud":32.51713755,
+        "Longitud":-116.94604375
+    },
+    {
+        "nombre":"FARMACIAS ROMA ANABEL",
+        "Latitud":32.46760124,
+        "Longitud":-116.86982446
+    },
+    {
+        "nombre":"FARMACIAS ROMA AZTLAN",
+        "Latitud":32.40769558,
+        "Longitud":-117.04810067
+    },
+    {
+        "nombre":"FARMACIAS ROMA BLVD GUERRERO",
+        "Latitud":32.36090235,
+        "Longitud":-117.04962234
+    },
+    {
+        "nombre":"FARMACIAS ROMA CALZADA TECNOLOGICO",
+        "Latitud":32.52851602,
+        "Longitud":-116.99170385
+    },
+    {
+        "nombre":"FARMACIAS ROMA CAMINO VERDE",
+        "Latitud":32.49022196,
+        "Longitud":-116.97182537
+    },
+    {
+        "nombre":"FARMACIAS ROMA CHAPARRAL",
+        "Latitud":32.53863113,
+        "Longitud":-117.02867029
+    },
+    {
+        "nombre":"FARMACIAS ROMA CHOPO",
+        "Latitud":32.50998582,
+        "Longitud":-117.06096367
+    },
+    {
+        "nombre":"FARMACIAS ROMA CHREVRON FLORESTA",
+        "Latitud":32.48001485,
+        "Longitud":-116.93735917
+    },
+    {
+        "nombre":"FARMACIAS ROMA CUAUHTEMOC",
+        "Latitud":32.51719164,
+        "Longitud":-117.02207415
+    },
+    {
+        "nombre":"FARMACIAS ROMA DELANTE",
+        "Latitud":31.85206682,
+        "Longitud":-116.59809498
+    },
+    {
+        "nombre":"FARMACIAS ROMA EL CABALLITO",
+        "Latitud":32.65095989,
+        "Longitud":-115.47225397
+    },
+    {
+        "nombre":"FARMACIAS ROMA EL LAGO",
+        "Latitud":32.5083375,
+        "Longitud":-116.92595119
+    },
+    {
+        "nombre":"FARMACIAS ROMA EL RUBI",
+        "Latitud":32.48052547,
+        "Longitud":-117.0328212
+    },
+    {
+        "nombre":"FARMACIAS ROMA GERANIOS",
+        "Latitud":31.8962326,
+        "Longitud":-116.57739472
+    },
+    {
+        "nombre":"FARMACIAS ROMA HACIENDA LAS DELICIAS",
+        "Latitud":32.40523449,
+        "Longitud":-116.9433837
+    },
+    {
+        "nombre":"FARMACIAS ROMA LA DIVINA",
+        "Latitud":32.48714306,
+        "Longitud":-117.07996734
+    },
+    {
+        "nombre":"FARMACIAS ROMA LA LINEA",
+        "Latitud":32.54105914,
+        "Longitud":-117.02473569
+    },
+    {
+        "nombre":"FARMACIAS ROMA LA POSTAL",
+        "Latitud":32.52395918,
+        "Longitud":-116.99667233
+    },
+    {
+        "nombre":"FARMACIAS ROMA LAS AMERICAS",
+        "Latitud":32.49994249,
+        "Longitud":-116.98949326
+    },
+    {
+        "nombre":"FARMACIAS ROMA LAS TORRES OTAY",
+        "Latitud":32.53490588,
+        "Longitud":-116.90192355
+    },
+    {
+        "nombre":"FARMACIAS ROMA LOMAS DE LA PRESA",
+        "Latitud":32.44328322,
+        "Longitud":-116.93019572
+    },
+    {
+        "nombre":"FARMACIAS ROMA LOS REYES",
+        "Latitud":32.4579194,
+        "Longitud":-116.92483023
+    },
+    {
+        "nombre":"FARMACIAS ROMA MAESTROS",
+        "Latitud":31.86258168,
+        "Longitud":-116.58962771
+    },
+    {
+        "nombre":"FARMACIAS ROMA MARINA",
+        "Latitud":31.86051618,
+        "Longitud":-116.62305511
+    },
+    {
+        "nombre":"FARMACIAS ROMA MARTIRES DE CHICAGO",
+        "Latitud":32.48124426,
+        "Longitud":-117.0375427
+    },
+    {
+        "nombre":"FARMACIAS ROMA MICHOACAN",
+        "Latitud":32.6562537,
+        "Longitud":-115.49936457
+    },
+    {
+        "nombre":"FARMACIAS ROMA MIRAMAR",
+        "Latitud":32.5160825,
+        "Longitud":-117.08360442
+    },
+    {
+        "nombre":"FARMACIAS ROMA MISION DEL ROSARIO",
+        "Latitud":32.49170575,
+        "Longitud":-117.06999913
+    },
+    {
+        "nombre":"FARMACIAS ROMA NATURA",
+        "Latitud":32.38765824,
+        "Longitud":-116.93878418
+    },
+    {
+        "nombre":"FARMACIAS ROMA NIDO DE AGUILAS",
+        "Latitud":32.54626938,
+        "Longitud":-116.89360182
+    },
+    {
+        "nombre":"FARMACIAS ROMA PACIFICO",
+        "Latitud":32.47009005,
+        "Longitud":-116.98752304
+    },
+    {
+        "nombre":"FARMACIAS ROMA PARQUE REVOLUCION",
+        "Latitud":31.86988864,
+        "Longitud":-116.62597264
+    },
+    {
+        "nombre":"FARMACIAS ROMA PASEO DEL BOSQUE",
+        "Latitud":32.50640241,
+        "Longitud":-116.84417692
+    },
+    {
+        "nombre":"FARMACIAS ROMA PASEO PLAYAS",
+        "Latitud":32.5232639,
+        "Longitud":-117.12011265
+    },
+    {
+        "nombre":"FARMACIAS ROMA PEDRO LOYOLA",
+        "Latitud":31.82523877,
+        "Longitud":-116.60405777
+    },
+    {
+        "nombre":"FARMACIAS ROMA PLAZA 686",
+        "Latitud":32.65290458,
+        "Longitud":-115.39465811
+    },
+    {
+        "nombre":"FARMACIAS ROMA PLAZA CIRCUITO ORIENTE",
+        "Latitud":31.88047647,
+        "Longitud":-116.57693165
+    },
+    {
+        "nombre":"FARMACIAS ROMA PLAZA OJO DE AGUA",
+        "Latitud":32.47664854,
+        "Longitud":-116.7912536
+    },
+    {
+        "nombre":"FARMACIAS ROMA POPOTLA",
+        "Latitud":32.32582123,
+        "Longitud":-117.05000606
+    },
+    {
+        "nombre":"FARMACIAS ROMA POPULAR",
+        "Latitud":31.88828351,
+        "Longitud":-116.608393
+    },
+    {
+        "nombre":"FARMACIAS ROMA PRESIDENTES",
+        "Latitud":32.49054188,
+        "Longitud":-116.90509687
+    },
+    {
+        "nombre":"FARMACIAS ROMA PRIMO TAPIA",
+        "Latitud":32.22527084,
+        "Longitud":-116.91832963
+    },
+    {
+        "nombre":"FARMACIAS ROMA RIVEROL",
+        "Latitud":31.87062264,
+        "Longitud":-116.61982939
+    },
+    {
+        "nombre":"FARMACIAS ROMA SANCHEZ TABOADA",
+        "Latitud":32.46113436,
+        "Longitud":-116.96520801
+    },
+    {
+        "nombre":"FARMACIAS ROMA SANTA ANITA",
+        "Latitud":32.54501788,
+        "Longitud":-116.6293157
+    },
+    {
+        "nombre":"FARMACIAS ROMA SANTA FE CEDROS",
+        "Latitud":32.43282203,
+        "Longitud":-117.04253174
+    },
+    {
+        "nombre":"FARMACIAS ROMA TECATE JUAREZ",
+        "Latitud":32.57288091,
+        "Longitud":-116.63465789
+    },
+    {
+        "nombre":"FARMACIAS ROMA TECATE LOS ENCINOS",
+        "Latitud":32.56640091,
+        "Longitud":-116.63441044
+    },
+    {
+        "nombre":"FARMACIAS ROMA TELEVISORA",
+        "Latitud":32.62411872,
+        "Longitud":-115.50569015
+    },
+    {
+        "nombre":"FARMACIAS ROMA TRIANGULO DE ORO",
+        "Latitud":32.51142992,
+        "Longitud":-117.11999045
+    },
+    {
+        "nombre":"FARMACIAS ROMA URBI VILLAS DEL CAMPO",
+        "Latitud":32.50791808,
+        "Longitud":-116.73573233
+    },
+    {
+        "nombre":"FARMACIAS ROMA VALLE DE GUADALUPE",
+        "Latitud":32.10123572,
+        "Longitud":-116.56380473
+    },
+    {
+        "nombre":"FARMACIAS ROMA VALLE VERDE",
+        "Latitud":31.88322006,
+        "Longitud":-116.60858198
+    },
+    {
+        "nombre":"FARMACIAS ROMA VIDAURRI",
+        "Latitud":32.58800908,
+        "Longitud":-115.44483361
+    },
+    {
+        "nombre":"FARMACIAS ROMA ZONA URBANA RIO TIJUANA",
+        "Latitud":32.52208763,
+        "Longitud":-117.01336153
+    },
+    {
+        "nombre":"L.ABORATORIO MEDICO DEL CHOPO SUCURSAL PRADO ORDAZ",
+        "Latitud":32.50898481,
+        "Longitud":-116.98398203
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL CALLE 10 Y MOCTEZUMA",
+        "Latitud":31.87365614,
+        "Longitud":-116.62553484
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL CIBELES",
+        "Latitud":32.6247559,
+        "Longitud":-115.42020216
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL CIUDAD DEPORTIVA",
+        "Latitud":32.65729955,
+        "Longitud":-115.45050757
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL CUCAPAH",
+        "Latitud":32.51366872,
+        "Longitud":-116.87693493
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL EL AGUILA",
+        "Latitud":32.4979373,
+        "Longitud":-116.91071588
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL GATO BRONCO",
+        "Latitud":32.53592415,
+        "Longitud":-116.93152292
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL JARDINES DEL LAGO",
+        "Latitud":32.62394304,
+        "Longitud":-115.48791351
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL JUAREZ UABC",
+        "Latitud":32.62893544,
+        "Longitud":-115.44520861
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL LOMAS DEL MAR",
+        "Latitud":31.82302414,
+        "Longitud":-116.59932828
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL OTAY",
+        "Latitud":32.4940205,
+        "Longitud":-116.88386097
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL PLAYAS TIJUANA",
+        "Latitud":32.52345676,
+        "Longitud":-117.12011188
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL PLAZA 686",
+        "Latitud":32.65288725,
+        "Longitud":-115.39585125
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL REFORMA MEXICALI",
+        "Latitud":32.6638264,
+        "Longitud":-115.48340683
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL SANCHEZ TABIOADA",
+        "Latitud":32.52240192,
+        "Longitud":-117.01712931
+    },
+    {
+        "nombre":"LABORATORIO MEDICO DEL CHOPO SUCURSAL SIGLO XXI",
+        "Latitud":32.48587445,
+        "Longitud":-116.94595923
+    },
+    {
+        "nombre":"LABORTORIO MEDICO DEL CHOPO SUCURSAL PASEOS DEL RIO",
+        "Latitud":32.48928133,
+        "Longitud":-116.93005993
+    },
+    {
+        "nombre":"ESTRADA LABORATORIOS",
+        "Latitud":32.60303615,
+        "Longitud":-115.3887442
+    },
+    {
+        "nombre":"LABORATORIO ESTRADA",
+        "Latitud":32.53151135,
+        "Longitud":-117.04056868
+    },
+    {
+        "nombre":"LABORATORIO ESTRADA",
+        "Latitud":32.53162842,
+        "Longitud":-117.04055592
+    },
+    {
+        "nombre":"LABORATORIO ESTRADA",
+        "Latitud":32.59158686,
+        "Longitud":-115.47604088
+    },
+    {
+        "nombre":"LABORATORIO SENABIL",
+        "Latitud":32.53379589,
+        "Longitud":-117.0396616
+    },
+    {
+        "nombre":"LABORATORIOS ESTRADA",
+        "Latitud":32.5738314,
+        "Longitud":-116.62887104
+    },
+    {
+        "nombre":"LABORATORIOS ESTRADA",
+        "Latitud":32.66678256,
+        "Longitud":-115.46185464
+    },
+    {
+        "nombre":"LABORATORIOS ESTRADA",
+        "Latitud":32.65537716,
+        "Longitud":-115.50560718
+    },
+    {
+        "nombre":"LABORATORIOS ESTRADA",
+        "Latitud":32.66587665,
+        "Longitud":-115.47194334
+    },
+    {
+        "nombre":"LABORATORIOS ESTRADA",
+        "Latitud":32.65943053,
+        "Longitud":-115.43345177
+    },
+    {
+        "nombre":"ESTRADA ODONTOTECNIA",
+        "Latitud":24.15327449,
+        "Longitud":-110.3203238
+    },
+    {
+        "nombre":"LABORATORIO SAN FRANCISCO",
+        "Latitud":27.97221306,
+        "Longitud":-114.03353643
+    },
+    {
+        "nombre":"LABORATORIOS ROVISAN",
+        "Latitud":16.77750873,
+        "Longitud":-93.10162796
+    },
+    {
+        "nombre":"LABORATORIO OPTICO ESTRADA",
+        "Latitud":20.51575049,
+        "Longitud":-100.8044657
+    },
+    {
+        "nombre":"LABORATORIO DE ESTUDIOS ODONTOLOGICOS",
+        "Latitud":20.12125199,
+        "Longitud":-98.73723566
+    },
+    {
+        "nombre":"UNIFORMES LUIS ESTRADA",
+        "Latitud":22.15087362,
+        "Longitud":-100.99413337
+    },
+    {
+        "nombre":"GRUPO ALIESTAL",
+        "Latitud":22.15093238,
+        "Longitud":-100.96182938
+    },
+    {
+        "nombre":"LABORATORIOS DE ANALISIS CLINICOS TANGAMANGA",
+        "Latitud":22.14516287,
+        "Longitud":-100.96199674
+    },
+    {
+        "nombre":"LABORATORIO CLINICO DEL NOROESTE",
+        "Latitud":24.79296979,
+        "Longitud":-107.35834934
+    },
+    {
+        "nombre":"LABORATORIO DE ANALISIS CLINICOS BURGUENO",
+        "Latitud":25.93645509,
+        "Longitud":-108.39685376
+    },
+    {
+        "nombre":"SALUD DIGNA CUCAPAH",
+        "Latitud":32.51339457,
+        "Longitud":-116.88712315
+    },
+    {
+        "nombre":"SALUD DIGNA ENSENADA",
+        "Latitud":31.86775343,
+        "Longitud":-116.62570358
+    },
+    {
+        "nombre":"SALUD DIGNA MEXICALI CENTRO CIVICO",
+        "Latitud":32.64000682,
+        "Longitud":-115.47291269
+    },
+    {
+        "nombre":"SALUD DIGNA MEXICALI LAZARO CARDENAS",
+        "Latitud":32.62394733,
+        "Longitud":-115.50120631
+    },
+    {
+        "nombre":"SALUD DIGNA MEXICALI PEDREGAL",
+        "Latitud":32.57970231,
+        "Longitud":-115.36554139
+    },
+    {
+        "nombre":"SALUD DIGNA TIJUANA CASA BLANCA",
+        "Latitud":32.49745186,
+        "Longitud":-116.86507464
+    },
+    {
+        "nombre":"SALUD DIGNA TIJUANA CENTRO",
+        "Latitud":32.53465039,
+        "Longitud":-117.03842826
+    },
+    {
+        "nombre":"SALUD DIGNA TIJUANA GUILLEN",
+        "Latitud":32.50302562,
+        "Longitud":-116.97384516
+    },
+    {
+        "nombre":"SALUD DIGNA TIJUANA MATAMOROS",
+        "Latitud":32.48341064,
+        "Longitud":-116.88082849
+    },
+    {
+        "nombre":"SALUD DIGNA TIJUANA OTAY",
+        "Latitud":32.53358442,
+        "Longitud":-116.94167439
+    },
+    {
+        "nombre":"SALUD DIGNA TIJUANA ROSARITO",
+        "Latitud":32.3644,
+        "Longitud":-117.0593
+    },
+    {
+        "nombre":"DISTRIBUIDORA EL FLORIDO ADMINISTRATIVO",
+        "Latitud":32.51710481,
+        "Longitud":-116.96812735
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES CORPORATIVO",
+        "Latitud":32.45998214,
+        "Longitud":-116.8908244
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":31.89598526,
+        "Longitud":-116.57747607
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 10 PALMAS",
+        "Latitud":32.50863166,
+        "Longitud":-116.98400179
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 11 OTAY",
+        "Latitud":32.53096436,
+        "Longitud":-116.95762131
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 12 EDA JUAREZ",
+        "Latitud":31.86510838,
+        "Longitud":-116.61972751
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 13 EDA REFORMA",
+        "Latitud":31.84013113,
+        "Longitud":-116.60274721
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 14 INSURGENTES PARQUE MORELOS",
+        "Latitud":32.50095449,
+        "Longitud":-116.93766119
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 15 TECATE INDUSTRIAL",
+        "Latitud":32.57265524,
+        "Longitud":-116.60810911
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 16 VILLAFONTANA",
+        "Latitud":32.509729,
+        "Longitud":-116.87906294
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 17 GOMEZ MORIN",
+        "Latitud":32.62511274,
+        "Longitud":-115.41767142
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 18 EJIDO PUEBLA",
+        "Latitud":32.57261651,
+        "Longitud":-115.34959342
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 2 TECATE PEDREGAL",
+        "Latitud":32.56497856,
+        "Longitud":-116.62776416
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 20 REAL DE SAN FRANCISCO",
+        "Latitud":32.49133078,
+        "Longitud":-116.85063292
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 23 VILLAS DEL PRADO",
+        "Latitud":32.42709642,
+        "Longitud":-116.96045529
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 24 CORTEZ",
+        "Latitud":31.86311318,
+        "Longitud":-116.58596267
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 25 REFUGIO",
+        "Latitud":32.45681527,
+        "Longitud":-116.82508179
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 3 ROSARITO",
+        "Latitud":32.40097658,
+        "Longitud":-117.0517166
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 4 SUCURSAL RIO",
+        "Latitud":32.52849721,
+        "Longitud":-117.02805563
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 5 FUNDADORES",
+        "Latitud":32.48048236,
+        "Longitud":-117.04411537
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 7 MESA",
+        "Latitud":32.48856446,
+        "Longitud":-116.94974389
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 8 SANTA FE",
+        "Latitud":32.44189742,
+        "Longitud":-117.03859301
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES 9 SOLER",
+        "Latitud":32.53151669,
+        "Longitud":-117.07145337
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES MARIANO MATAMOROS NORTE",
+        "Latitud":32.49371227,
+        "Longitud":-116.88516715
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES SUCURSAL VENEZIA",
+        "Latitud":32.59564495,
+        "Longitud":-115.4684144
+    },
+    {
+        "nombre":"ABARROTES Y CARNES EL FLORIDO",
+        "Latitud":32.53377065,
+        "Longitud":-116.94124371
+    },
+    {
+        "nombre":"ABARROTES Y CARNES EL FLORIDO",
+        "Latitud":32.42692739,
+        "Longitud":-116.96133992
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.63889933,
+        "Longitud":-115.4953668
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.28698648,
+        "Longitud":-115.10050465
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.50889805,
+        "Longitud":-116.7310527
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.39313326,
+        "Longitud":-117.01423351
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":31.78575487,
+        "Longitud":-116.58558302
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":31.91101837,
+        "Longitud":-116.5978511
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.59563716,
+        "Longitud":-115.4951647
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.50033031,
+        "Longitud":-116.96915918
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.39001051,
+        "Longitud":-116.95415883
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.48657582,
+        "Longitud":-117.07951224
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.44901213,
+        "Longitud":-116.88486971
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.43891006,
+        "Longitud":-117.06182996
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.40615288,
+        "Longitud":-116.96358883
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.52713638,
+        "Longitud":-117.02618894
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.43973967,
+        "Longitud":-116.98676817
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.46623477,
+        "Longitud":-116.82834745
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.49456686,
+        "Longitud":-116.95892161
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.37337208,
+        "Longitud":-116.93140606
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.53250681,
+        "Longitud":-117.04078403
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.44714521,
+        "Longitud":-117.03501625
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.5337952,
+        "Longitud":-116.94118367
+    },
+    {
+        "nombre":"EL FLORIDO ABARROTES Y CARNES",
+        "Latitud":32.35515176,
+        "Longitud":-117.05919396
+    },
+    {
+        "nombre":"1037 NUEVO MEXICALI",
+        "Latitud":32.60902816,
+        "Longitud":-115.38411382
+    },
+    {
+        "nombre":"120 MEGA TIJUANA OTAY",
+        "Latitud":32.53637902,
+        "Longitud":-116.93130728
+    },
+    {
+        "nombre":"127 ELEKTRA DEL MILENIO MEGA TIJUANA LAS TORRES",
+        "Latitud":32.47741666,
+        "Longitud":-116.87584729
+    },
+    {
+        "nombre":"1514 TIJUANA EL RUBI  ANTES FUNDADORES",
+        "Latitud":32.48347675,
+        "Longitud":-117.03567928
+    },
+    {
+        "nombre":"2005 TIJUANA CUCAPAH",
+        "Latitud":32.51375728,
+        "Longitud":-116.87000128
+    },
+    {
+        "nombre":"2006 MEXICALI SANTA BARBARA",
+        "Latitud":32.64577281,
+        "Longitud":-115.51974488
+    },
+    {
+        "nombre":"2046 MEXICALI VALLE DEL PEDREGAL",
+        "Latitud":32.57805823,
+        "Longitud":-115.36106883
+    },
+    {
+        "nombre":"2048 ENSENADA BOULEVARD REFORMA",
+        "Latitud":31.84070422,
+        "Longitud":-116.60252979
+    },
+    {
+        "nombre":"2150 ELEKTRA TIJUANA 3 CONSTITUCION",
+        "Latitud":32.5346504,
+        "Longitud":-117.03842826
+    },
+    {
+        "nombre":"2230 MEXICALI XOCHIMILCO",
+        "Latitud":32.60445842,
+        "Longitud":-115.47623414
+    },
+    {
+        "nombre":"2367 TECATE",
+        "Latitud":32.57292843,
+        "Longitud":-116.63408785
+    },
+    {
+        "nombre":"2383 MEGA MEXICALI LERDO",
+        "Latitud":32.66105589,
+        "Longitud":-115.48891114
+    },
+    {
+        "nombre":"3117 TIJUANA 4 NIÑOS HEROES",
+        "Latitud":32.53501102,
+        "Longitud":-117.0426504
+    },
+    {
+        "nombre":"3120 TIJUANA 5 DIAZ ORDAZ",
+        "Latitud":32.50076349,
+        "Longitud":-116.96942241
+    },
+    {
+        "nombre":"3450 TIJUANA 1 LUNA PARK",
+        "Latitud":32.48475269,
+        "Longitud":-116.94111569
+    },
+    {
+        "nombre":"3748 MEGA TIJUANA CENTRO",
+        "Latitud":32.53361717,
+        "Longitud":-117.04147241
+    },
+    {
+        "nombre":"3751 MEGA TIJUANA LAS BRISAS",
+        "Latitud":32.49442185,
+        "Longitud":-116.95867025
+    },
+    {
+        "nombre":"4448 ELEKTRA MILENIO",
+        "Latitud":32.49223839,
+        "Longitud":-116.85050606
+    },
+    {
+        "nombre":"5445 MEGA ENSENADA",
+        "Latitud":31.86670355,
+        "Longitud":-116.62485749
+    },
+    {
+        "nombre":"5568 MEGA TIJUANA EL FLORIDO",
+        "Latitud":32.49792251,
+        "Longitud":-116.88825423
+    },
+    {
+        "nombre":"5830 MEGA TIJUANA SOLER",
+        "Latitud":32.53112592,
+        "Longitud":-117.07245192
+    },
+    {
+        "nombre":"5843 MEGA MEXICALI",
+        "Latitud":32.64427379,
+        "Longitud":-115.50560306
+    },
+    {
+        "nombre":"5940 ELEKTRA DEL MILENIO",
+        "Latitud":31.86864513,
+        "Longitud":-116.6266324
+    },
+    {
+        "nombre":"6014 ELEKTRA DEL MILENIO",
+        "Latitud":32.46258975,
+        "Longitud":-116.92776255
+    },
+    {
+        "nombre":"6099 ELEKTRA TIJUANA LOMA BONITA",
+        "Latitud":32.48324018,
+        "Longitud":-117.05098558
+    },
+    {
+        "nombre":"7391 MEGA TIJUANA DIAZ ORDAZ",
+        "Latitud":32.50040902,
+        "Longitud":-116.96928734
+    },
+    {
+        "nombre":"8332 ELEKTRA DEL MILENIO",
+        "Latitud":32.35803462,
+        "Longitud":-117.05884463
+    },
+    {
+        "nombre":"ELEKTRA",
+        "Latitud":32.49791133,
+        "Longitud":-116.86342353
+    },
+    {
+        "nombre":"ELEKTRA DEL MILENIO",
+        "Latitud":32.47977957,
+        "Longitud":-116.83514756
+    },
+    {
+        "nombre":"ELEKTRA LAS FUENTES SUC. 4452",
+        "Latitud":32.46556769,
+        "Longitud":-116.8650122
+    },
+    {
+        "nombre":"ELEKTRA SUCURSAL 6870",
+        "Latitud":32.62272893,
+        "Longitud":-115.5092073
+    },
+    {
+        "nombre":"ELEKTRA OJO DE AGUA",
+        "Latitud":32.4707,
+        "Longitud":-116.7895
+    },
+    {
+        "nombre":"ELEKTRA LA PAJARITA",
+        "Latitud":32.4443,
+        "Longitud":-117.036
+    },
+    {
+        "nombre":"COPPEL 153502 TJNA CENTRO DE DISTRIBUCIÓN TIJUANA",
+        "Latitud":32.53051648,
+        "Longitud":-116.91951125
+    },
+    {
+        "nombre":"COPPEL 250245 TJNA RECURSOS HUMANOS",
+        "Latitud":32.53394405,
+        "Longitud":-117.04153826
+    },
+    {
+        "nombre":"COPPEL 250255 GPEV RECURSOS HUMANOS",
+        "Latitud":32.29140163,
+        "Longitud":-115.0942977
+    },
+    {
+        "nombre":"COPPEL 30012 MXLI IMP CEDIS REGIONAL MEXICALI IMPORTACIÓN ",
+        "Latitud":32.65290606,
+        "Longitud":-115.37745385
+    },
+    {
+        "nombre":"COPPEL 513901 RSTO COBRANZA ROSARITO ",
+        "Latitud":32.37689864,
+        "Longitud":-117.06084297
+    },
+    {
+        "nombre":"COPPEL BODEGA COPPEL MEXICALI",
+        "Latitud":32.65100821,
+        "Longitud":-115.37755394
+    },
+    {
+        "nombre":"COPPEL CENTRO DE COBRANZA COPPEL TIJUANA IV",
+        "Latitud":32.53331148,
+        "Longitud":-117.0669261
+    },
+    {
+        "nombre":"COPPEL CENTRO DE DISTRIBUCIÓN ENSENADA",
+        "Latitud":31.84860523,
+        "Longitud":-116.58671908
+    },
+    {
+        "nombre":"COPPEL COBRANZA ENSENADA I",
+        "Latitud":31.85861729,
+        "Longitud":-116.60607943
+    },
+    {
+        "nombre":"COPPEL COBRANZA GUADALUPE VICTORIA 518201",
+        "Latitud":32.28355491,
+        "Longitud":-115.10536293
+    },
+    {
+        "nombre":"COPPEL COBRANZA MEXICALI I 5011-01",
+        "Latitud":32.62758717,
+        "Longitud":-115.46182605
+    },
+    {
+        "nombre":"COPPEL COBRANZA TIJUANA I",
+        "Latitud":32.49625109,
+        "Longitud":-116.96835227
+    },
+    {
+        "nombre":"COPPEL COBRANZA TIJUANA III",
+        "Latitud":32.52682523,
+        "Longitud":-117.03587005
+    },
+    {
+        "nombre":"COPPEL COBRANZA TIJUANA V 504405",
+        "Latitud":32.52997464,
+        "Longitud":-116.96797998
+    },
+    {
+        "nombre":"COPPEL",
+        "Latitud":32.58568833,
+        "Longitud":-115.4352941
+    },
+    {
+        "nombre":"COPPEL",
+        "Latitud":32.42696205,
+        "Longitud":-116.96255193
+    },
+    {
+        "nombre":"COPPEL CACHANILLA I 20",
+        "Latitud":32.65773438,
+        "Longitud":-115.47974724
+    },
+    {
+        "nombre":"COPPEL CACHANILLA II 29",
+        "Latitud":32.65826747,
+        "Longitud":-115.48080046
+    },
+    {
+        "nombre":"COPPEL CÁRDENAS 76",
+        "Latitud":32.50092086,
+        "Longitud":-116.96538612
+    },
+    {
+        "nombre":"COPPEL CONSTITUCIÓN 75",
+        "Latitud":32.53493383,
+        "Longitud":-117.0384638
+    },
+    {
+        "nombre":"COPPEL CONSTITUCION II 179",
+        "Latitud":32.53182971,
+        "Longitud":-117.03826529
+    },
+    {
+        "nombre":"COPPEL DIGITAL GALERIAS 1394",
+        "Latitud":32.62296046,
+        "Longitud":-115.50866371
+    },
+    {
+        "nombre":"COPPEL EL REFUGIO 437",
+        "Latitud":32.46147469,
+        "Longitud":-116.88084886
+    },
+    {
+        "nombre":"COPPEL EL SOLER 365",
+        "Latitud":32.53153303,
+        "Longitud":-117.07226857
+    },
+    {
+        "nombre":"COPPEL ENCINOS 203",
+        "Latitud":32.56603365,
+        "Longitud":-116.63357193
+    },
+    {
+        "nombre":"COPPEL GALERIAS 457",
+        "Latitud":32.62338896,
+        "Longitud":-115.50757917
+    },
+    {
+        "nombre":"COPPEL GATO BRONCO 99",
+        "Latitud":32.49907752,
+        "Longitud":-116.91831527
+    },
+    {
+        "nombre":"COPPEL GUADALUPE VICTORIA 368",
+        "Latitud":32.29119087,
+        "Longitud":-115.09459
+    },
+    {
+        "nombre":"COPPEL INSURGENTES 341",
+        "Latitud":32.49571629,
+        "Longitud":-116.93244671
+    },
+    {
+        "nombre":"COPPEL JUAREZ IV 110",
+        "Latitud":31.86664347,
+        "Longitud":-116.62321387
+    },
+    {
+        "nombre":"COPPEL JUVENTUD 2000 258",
+        "Latitud":32.60446143,
+        "Longitud":-115.47645288
+    },
+    {
+        "nombre":"COPPEL LAS BRISAS 97",
+        "Latitud":32.49450899,
+        "Longitud":-116.95882128
+    },
+    {
+        "nombre":"COPPEL LAS FUENTES 475",
+        "Latitud":32.46601291,
+        "Longitud":-116.86451723
+    },
+    {
+        "nombre":"COPPEL LOMA BONITA 338",
+        "Latitud":32.48318742,
+        "Longitud":-117.050723
+    },
+    {
+        "nombre":"COPPEL MATAMOROS 102",
+        "Latitud":32.49838912,
+        "Longitud":-116.8897777
+    },
+    {
+        "nombre":"COPPEL MISIÓN 77",
+        "Latitud":31.87072323,
+        "Longitud":-116.60859467
+    },
+    {
+        "nombre":"COPPEL NUEVO MEXICALI 105",
+        "Latitud":32.61037685,
+        "Longitud":-115.38619044
+    },
+    {
+        "nombre":"COPPEL OTAY 181",
+        "Latitud":32.53478504,
+        "Longitud":-116.93360055
+    },
+    {
+        "nombre":"COPPEL PALACO  300",
+        "Latitud":32.57769136,
+        "Longitud":-115.36000151
+    },
+    {
+        "nombre":"COPPEL PALMERAS 265",
+        "Latitud":31.81438656,
+        "Longitud":-116.59740861
+    },
+    {
+        "nombre":"COPPEL PASEO 2000 896",
+        "Latitud":32.49241691,
+        "Longitud":-116.85047815
+    },
+    {
+        "nombre":"COPPEL PLAZA CORTEZ 198",
+        "Latitud":32.47786037,
+        "Longitud":-116.96986796
+    },
+    {
+        "nombre":"COPPEL PLAZA DEL SOL 266",
+        "Latitud":32.64802238,
+        "Longitud":-115.53337472
+    },
+    {
+        "nombre":"COPPEL PLAZA DEL SOL TIJUANA 369",
+        "Latitud":32.44368297,
+        "Longitud":-117.03597393
+    },
+    {
+        "nombre":"COPPEL PLAZA EL DORADO 436",
+        "Latitud":32.49788072,
+        "Longitud":-116.86332545
+    },
+    {
+        "nombre":"COPPEL PLAZA PABELLÓN 458",
+        "Latitud":32.37561678,
+        "Longitud":-117.05898911
+    },
+    {
+        "nombre":"COPPEL PLAZA VILLA FLORESTA 225",
+        "Latitud":32.36699386,
+        "Longitud":-117.06031814
+    },
+    {
+        "nombre":"COPPEL SANTA ANITA 417",
+        "Latitud":32.53763329,
+        "Longitud":-116.90264728
+    },
+    {
+        "nombre":"COPPEL SENDERO 2000 1395",
+        "Latitud":32.4537874,
+        "Longitud":-116.83725226
+    },
+    {
+        "nombre":"COPPEL SOLO MUEBLES BAHÍA 851",
+        "Latitud":31.85867242,
+        "Longitud":-116.60609012
+    },
+    {
+        "nombre":"COPPEL VILLAFONTANA 98",
+        "Latitud":32.51378458,
+        "Longitud":-116.86843541
+    },
+    {
+        "nombre":"COPPEL VILLANOVA 90",
+        "Latitud":32.62363141,
+        "Longitud":-115.49478681
+    },
+    {
+        "nombre":"SAN PEDRO 7610",
+        "Latitud":32.65539959,
+        "Longitud":-115.41321477
+    },
+    {
+        "nombre":"VIDAURRI 6583",
+        "Latitud":32.58574924,
+        "Longitud":-115.43555562
+    },
+    {
+        "nombre":"CEDIS ALMACEN N",
+        "Latitud":32.53848819,
+        "Longitud":-116.91772809
+    },
+    {
+        "nombre":"DISCOUNT PHARMACY 9",
+        "Latitud":32.53175385,
+        "Longitud":-117.03665141
+    },
+    {
+        "nombre":"DRUG DISCOUNTERS 7",
+        "Latitud":32.53852826,
+        "Longitud":-117.02859012
+    },
+    {
+        "nombre":"FARMACIA DRUG DISCOUNTERS",
+        "Latitud":32.54053563,
+        "Longitud":-117.03000031
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA",
+        "Latitud":32.66205411,
+        "Longitud":-115.4526176
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA",
+        "Latitud":32.52315763,
+        "Longitud":-117.03400896
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA",
+        "Latitud":32.48502241,
+        "Longitud":-117.05256503
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA  SUC 1",
+        "Latitud":32.5349374,
+        "Longitud":-117.04005645
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC  55",
+        "Latitud":32.56537706,
+        "Longitud":-116.62900446
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC  8",
+        "Latitud":32.53374702,
+        "Longitud":-117.03831499
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 10",
+        "Latitud":32.49891106,
+        "Longitud":-116.9182144
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 16",
+        "Latitud":32.5339799,
+        "Longitud":-117.03911805
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 17",
+        "Latitud":32.53464989,
+        "Longitud":-117.04018047
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 19",
+        "Latitud":32.53530747,
+        "Longitud":-117.03685547
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 20",
+        "Latitud":32.53382669,
+        "Longitud":-117.04070304
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 21",
+        "Latitud":32.53517097,
+        "Longitud":-117.039123
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 22",
+        "Latitud":32.49851584,
+        "Longitud":-116.9656621
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 23",
+        "Latitud":32.53351634,
+        "Longitud":-117.01864066
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 24",
+        "Latitud":32.49913713,
+        "Longitud":-116.96716974
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 27",
+        "Latitud":32.49567583,
+        "Longitud":-116.93241319
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 29",
+        "Latitud":32.48343772,
+        "Longitud":-117.05209909
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 30",
+        "Latitud":32.48643997,
+        "Longitud":-116.84977291
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 31",
+        "Latitud":32.5351438,
+        "Longitud":-117.03944025
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 32",
+        "Latitud":32.46627905,
+        "Longitud":-116.86426686
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 33",
+        "Latitud":32.6620901,
+        "Longitud":-115.45261796
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 34",
+        "Latitud":32.48260446,
+        "Longitud":-117.03574377
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 35",
+        "Latitud":32.62456094,
+        "Longitud":-115.40893842
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 36",
+        "Latitud":32.65079975,
+        "Longitud":-115.47289192
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 37",
+        "Latitud":32.62420316,
+        "Longitud":-115.44382214
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 38",
+        "Latitud":32.53016257,
+        "Longitud":-117.07342703
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 39",
+        "Latitud":32.48512078,
+        "Longitud":-116.94346744
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 40",
+        "Latitud":32.49240595,
+        "Longitud":-116.93485385
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 41",
+        "Latitud":32.52721804,
+        "Longitud":-117.0329696
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 43",
+        "Latitud":32.51889097,
+        "Longitud":-117.0179082
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 44",
+        "Latitud":32.48260278,
+        "Longitud":-117.0357442
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 45",
+        "Latitud":32.53382669,
+        "Longitud":-117.05944608
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 46",
+        "Latitud":32.5090108,
+        "Longitud":-116.98756818
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 47",
+        "Latitud":32.48892329,
+        "Longitud":-116.85075893
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 48",
+        "Latitud":32.53565712,
+        "Longitud":-116.93192057
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 49",
+        "Latitud":32.52123031,
+        "Longitud":-116.98663493
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 50",
+        "Latitud":32.50376895,
+        "Longitud":-116.98568467
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 51",
+        "Latitud":32.47808475,
+        "Longitud":-116.9691032
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 52",
+        "Latitud":32.47220517,
+        "Longitud":-116.93401902
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 53",
+        "Latitud":32.5189121,
+        "Longitud":-116.88970581
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 54",
+        "Latitud":32.49646022,
+        "Longitud":-116.97474746
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 56",
+        "Latitud":32.65802476,
+        "Longitud":-115.43956797
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 57",
+        "Latitud":32.60378937,
+        "Longitud":-115.47839801
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 58",
+        "Latitud":32.54321153,
+        "Longitud":-116.94121567
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 59",
+        "Latitud":32.53312529,
+        "Longitud":-117.03356806
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 60",
+        "Latitud":32.53278199,
+        "Longitud":-117.03819396
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 61",
+        "Latitud":32.5322298,
+        "Longitud":-116.95051323
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 62",
+        "Latitud":32.51889371,
+        "Longitud":-117.01791462
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 63",
+        "Latitud":32.66675862,
+        "Longitud":-115.46220458
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 64",
+        "Latitud":32.62749809,
+        "Longitud":-115.38741973
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 65",
+        "Latitud":32.62453663,
+        "Longitud":-115.408843
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 67",
+        "Latitud":32.62468029,
+        "Longitud":-115.43043313
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 68",
+        "Latitud":32.51734335,
+        "Longitud":-117.02219989
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 70",
+        "Latitud":32.48036345,
+        "Longitud":-116.84881003
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 71",
+        "Latitud":32.48355019,
+        "Longitud":-117.05273699
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 72",
+        "Latitud":32.49767265,
+        "Longitud":-116.99110127
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 73",
+        "Latitud":32.46648738,
+        "Longitud":-116.86412236
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 75",
+        "Latitud":32.53620054,
+        "Longitud":-117.02306253
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 76",
+        "Latitud":32.65051887,
+        "Longitud":-115.43260331
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 77",
+        "Latitud":31.85555733,
+        "Longitud":-116.60549568
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 78",
+        "Latitud":32.4887768,
+        "Longitud":-117.03234589
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 79",
+        "Latitud":31.83446695,
+        "Longitud":-116.60571583
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 80",
+        "Latitud":31.86389986,
+        "Longitud":-116.5820034
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 82",
+        "Latitud":32.52125936,
+        "Longitud":-117.02259845
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 83",
+        "Latitud":32.65080007,
+        "Longitud":-115.47289222
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 84",
+        "Latitud":32.40917703,
+        "Longitud":-117.04710713
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 86",
+        "Latitud":32.58088481,
+        "Longitud":-115.35723692
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 87",
+        "Latitud":32.65623937,
+        "Longitud":-115.51049059
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 88",
+        "Latitud":32.5615579,
+        "Longitud":-116.624772
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 89",
+        "Latitud":32.65221495,
+        "Longitud":-115.46745823
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 9",
+        "Latitud":32.53530329,
+        "Longitud":-117.03705901
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 90",
+        "Latitud":32.45671282,
+        "Longitud":-116.97272643
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 91",
+        "Latitud":32.65436921,
+        "Longitud":-115.5295217
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 92",
+        "Latitud":32.39184649,
+        "Longitud":-117.05078121
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 93",
+        "Latitud":32.6363616,
+        "Longitud":-115.45138994
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 94",
+        "Latitud":32.47710768,
+        "Longitud":-116.93626979
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC 98",
+        "Latitud":31.85956128,
+        "Longitud":-116.59342269
+    },
+    {
+        "nombre":"FARMACIA LA MAS BARATA SUC18",
+        "Latitud":32.49913379,
+        "Longitud":-116.96716383
+    },
+    {
+        "nombre":"FARMACIA LAMAS BARATA SUC 66",
+        "Latitud":32.60513942,
+        "Longitud":-115.37803841
+    },
+    {
+        "nombre":"FARMACIA LAMAS BARATA SUC 85",
+        "Latitud":32.60856612,
+        "Longitud":-115.40512645
+    },
+    {
+        "nombre":"FARMACIA LAMAS BARATA SUC 95",
+        "Latitud":32.66273304,
+        "Longitud":-115.47757857
+    },
+    {
+        "nombre":"FARMACIA LAMAS BARATA SUC 97",
+        "Latitud":32.35350959,
+        "Longitud":-117.0500816
+    },
+    {
+        "nombre":"FARMACIA LAMAS BATARA SUC 74",
+        "Latitud":32.57310666,
+        "Longitud":-116.63352965
+    },
+    {
+        "nombre":"MEDICINE STORE 3",
+        "Latitud":32.53492725,
+        "Longitud":-117.03701582
+    },
+    {
+        "nombre":"MEDS 4 LESS",
+        "Latitud":32.53434174,
+        "Longitud":-117.03673852
+    },
+    {
+        "nombre":"MEDS 4 LESS PHARMACY 6",
+        "Latitud":32.53438107,
+        "Longitud":-117.03674329
+    },
+    {
+        "nombre":"MUNDO OPTICO  101",
+        "Latitud":32.49341398,
+        "Longitud":-116.85036488
+    },
+    {
+        "nombre":"MUNDO OPTICO 102",
+        "Latitud":32.5185373,
+        "Longitud":-117.01187979
+    },
+    {
+        "nombre":"OPERADORA FARMACEUTICA DE BAJA CALIFORNIA",
+        "Latitud":32.52104414,
+        "Longitud":-117.0282315
+    },
+    {
+        "nombre":"LABORATORIO GAMBOA REFUGIO",
+        "Latitud":32.45544596,
+        "Longitud":-116.82488871
+    },
+    {
+        "nombre":"LABORATORIO GAMBOA OTAY",
+        "Latitud":32.53420373,
+        "Longitud":-116.94974788
+    },
+    {
+        "nombre":"LABORATORIOS GAMBOA MATRIZ",
+        "Latitud":32.50878883,
+        "Longitud":-116.98340619
+    },
+    {
+        "nombre":"LABORATORIOS GAMBOA PLAZA RIO",
+        "Latitud":32.52702305,
+        "Longitud":-117.0205624
+    },
+    {
+        "nombre":"LABORATORIOS GAMBOA COLORADO",
+        "Latitud":32.49842241,
+        "Longitud":-116.8907857
+    },
+    {
+        "nombre":"LABORATORIOS GAMBOA CUCAPAH",
+        "Latitud":32.51386933,
+        "Longitud":-116.86327505
+    },
+    {
+        "nombre":"LABORATORIOS GAMBOA LA PAJARITA",
+        "Latitud":32.44401492,
+        "Longitud":-117.03539693
+    },
+    {
+        "nombre":"LABORATORIOS GAMBOA MONARCA",
+        "Latitud":32.499517,
+        "Longitud":-116.91858159
+    },
+    {
+        "nombre":"LABORATORIOS GAMBOA PLAYAS",
+        "Latitud":32.53291632,
+        "Longitud":-117.11431614
+    },
+    {
+        "nombre":"LABORATORIOS GAMBOA RIO",
+        "Latitud":32.52091435,
+        "Longitud":-117.00972992
+    },
+    {
+        "nombre":"LABORATORIOS GAMBOA ROSARITO",
+        "Latitud":32.36361664,
+        "Longitud":-117.04985212
+    },
+    {
+        "nombre":"LABORATORIOS GAMBOA SEGUNDA",
+        "Latitud":32.5346,
+        "Longitud":-117.0478
+    },
+    {
+        "nombre":"LABORATORIOS GAMBOA PIO PICO",
+        "Latitud":32.5232,
+        "Longitud":-117.0298
+    },
+    {
+        "nombre":"LABORATORIOS GAMBOA PACIFICO",
+        "Latitud":32.4768,
+        "Longitud":-116.9932
+    },
+    {
+        "nombre":"CARL S JR 5 Y 10",
+        "Latitud":32.50019241,
+        "Longitud":-116.96893461
+    },
+    {
+        "nombre":"CARL S JR AGUACALIENTE",
+        "Latitud":32.51324946,
+        "Longitud":-117.0074089
+    },
+    {
+        "nombre":"CARL S JR ANAHUAC",
+        "Latitud":32.60975344,
+        "Longitud":-115.47917515
+    },
+    {
+        "nombre":"CARL S JR BENITO JUAREZ",
+        "Latitud":32.36834497,
+        "Longitud":-117.06064904
+    },
+    {
+        "nombre":"CARL S JR CACHANILLAS II",
+        "Latitud":32.65662309,
+        "Longitud":-115.47776568
+    },
+    {
+        "nombre":"CARL S JR CALLE CUARTA",
+        "Latitud":32.61496575,
+        "Longitud":-115.39319094
+    },
+    {
+        "nombre":"CARL S JR CALLE NOVENA",
+        "Latitud":32.63409794,
+        "Longitud":-115.38610801
+    },
+    {
+        "nombre":"CARL S JR CENTERARIO",
+        "Latitud":32.62540935,
+        "Longitud":-115.44386836
+    },
+    {
+        "nombre":"CARL S JR CENTRO CIVICO",
+        "Latitud":32.64981143,
+        "Longitud":-115.47178065
+    },
+    {
+        "nombre":"CARL S JR CETYS",
+        "Latitud":32.65435197,
+        "Longitud":-115.41129871
+    },
+    {
+        "nombre":"CARL S JR COSTERO",
+        "Latitud":31.85414312,
+        "Longitud":-116.60521643
+    },
+    {
+        "nombre":"CARL S JR CUAUTEMOC",
+        "Latitud":32.52380788,
+        "Longitud":-117.01881801
+    },
+    {
+        "nombre":"CARL S JR FUNDADORES",
+        "Latitud":32.52375205,
+        "Longitud":-117.03453191
+    },
+    {
+        "nombre":"CARL S JR GALERIA HIPODROMO",
+        "Latitud":32.50920763,
+        "Longitud":-116.99278685
+    },
+    {
+        "nombre":"CARL S JR GALERIAS MEXICALI",
+        "Latitud":32.62366091,
+        "Longitud":-115.50624425
+    },
+    {
+        "nombre":"CARL S JR INSURGENTES",
+        "Latitud":32.49326323,
+        "Longitud":-116.93046065
+    },
+    {
+        "nombre":"CARL S JR JUSTO SIERRA",
+        "Latitud":32.65742311,
+        "Longitud":-115.45228166
+    },
+    {
+        "nombre":"CARL S JR MACRO PLAZA",
+        "Latitud":32.49476161,
+        "Longitud":-116.93165597
+    },
+    {
+        "nombre":"CARL S JR OTAY",
+        "Latitud":32.53270502,
+        "Longitud":-116.94469108
+    },
+    {
+        "nombre":"CARL S JR PACIFICO",
+        "Latitud":32.47643978,
+        "Longitud":-116.99516804
+    },
+    {
+        "nombre":"CARL S JR PASEO 2000",
+        "Latitud":32.4935563,
+        "Longitud":-116.85034363
+    },
+    {
+        "nombre":"CARL S JR PLAYAS",
+        "Latitud":32.53172319,
+        "Longitud":-117.11497901
+    },
+    {
+        "nombre":"CARL S JR PLAZA LAS BRISAS",
+        "Latitud":32.49476988,
+        "Longitud":-116.95927354
+    },
+    {
+        "nombre":"CARL S JR PLAZA SENDERO TIJUANA",
+        "Latitud":32.45383148,
+        "Longitud":-116.83714393
+    },
+    {
+        "nombre":"CARL S JR REFORMA",
+        "Latitud":31.85414326,
+        "Longitud":-116.60521646
+    },
+    {
+        "nombre":"CARL S JR REVOLUCION",
+        "Latitud":32.53199252,
+        "Longitud":-117.03667881
+    },
+    {
+        "nombre":"CARL S JR SOLER",
+        "Latitud":32.53322316,
+        "Longitud":-117.07298647
+    },
+    {
+        "nombre":"CARL S JR UNIVERSIDAD",
+        "Latitud":32.52995196,
+        "Longitud":-116.9683565
+    },
+    {
+        "nombre":"CARLS JR ABEDULES",
+        "Latitud":32.46186529,
+        "Longitud":-116.87434783
+    },
+    {
+        "nombre":"CARLS JR COSTA DORADA",
+        "Latitud":31.82284797,
+        "Longitud":-116.59928851
+    },
+    {
+        "nombre":"CARLS JR PENINSULA",
+        "Latitud":32.51331613,
+        "Longitud":-116.96705972
+    },
+    {
+        "nombre":"CARLS JR PLAZA LAS ALONDRAS",
+        "Latitud":32.44975405,
+        "Longitud":-117.02481974
+    },
+    {
+        "nombre":"CARLS JR SENDERO MEXICALI",
+        "Latitud":32.59299332,
+        "Longitud":-115.35731258
+    },
+    {
+        "nombre":"CARLS JR SIGLO XXI",
+        "Latitud":32.48592459,
+        "Longitud":-116.94607439
+    },
+    {
+        "nombre":"CARLS JR TECATE",
+        "Latitud":32.57309637,
+        "Longitud":-116.63365476
+    },
+    {
+        "nombre":"OFICINA CARL S JR",
+        "Latitud":32.52380272,
+        "Longitud":-117.0163286
+    },
+    {
+        "nombre":"CARLS JR MALECON",
+        "Latitud":31.8597,
+        "Longitud":-116.623
+    },
+    {
+        "nombre":"CARLS JR SENDERO ENSENADA",
+        "Latitud":31.8493,
+        "Longitud":-116.5807
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":31.7956427,
+        "Longitud":-116.59367335
+    },
+    {
+        "nombre":"CENTRO DE PINTURAS COMEX ENSENADA",
+        "Latitud":31.86620314,
+        "Longitud":-116.62148068
+    },
+    {
+        "nombre":"COMEX",
+        "Latitud":31.8956735,
+        "Longitud":-116.69833934
+    },
+    {
+        "nombre":"COMEX",
+        "Latitud":32.61124422,
+        "Longitud":-115.40543128
+    },
+    {
+        "nombre":"COMEX",
+        "Latitud":32.40482157,
+        "Longitud":-116.94344163
+    },
+    {
+        "nombre":"COMEX",
+        "Latitud":30.72798128,
+        "Longitud":-115.99062898
+    },
+    {
+        "nombre":"COMEX",
+        "Latitud":32.42696352,
+        "Longitud":-116.96078202
+    },
+    {
+        "nombre":"COMEX",
+        "Latitud":32.45062755,
+        "Longitud":-117.03805397
+    },
+    {
+        "nombre":"COMEX",
+        "Latitud":32.6138781,
+        "Longitud":-115.45540685
+    },
+    {
+        "nombre":"COMEX CLOUTHIER",
+        "Latitud":32.49468737,
+        "Longitud":-116.92597139
+    },
+    {
+        "nombre":"COMEX NATURA",
+        "Latitud":32.37776202,
+        "Longitud":-116.93521207
+    },
+    {
+        "nombre":"COMEX PRESIDENTES",
+        "Latitud":32.49042235,
+        "Longitud":-116.90525477
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.65916344,
+        "Longitud":-115.48554649
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.50971235,
+        "Longitud":-116.9760026
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.65902452,
+        "Longitud":-115.48502613
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.60363492,
+        "Longitud":-115.37577961
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.28537342,
+        "Longitud":-115.10278516
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.66321136,
+        "Longitud":-115.43665959
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.62285502,
+        "Longitud":-115.47921067
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.56803147,
+        "Longitud":-115.33445588
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.65792747,
+        "Longitud":-115.44431361
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.62486426,
+        "Longitud":-115.44005243
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.62487249,
+        "Longitud":-115.43939945
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.61185791,
+        "Longitud":-115.43753018
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.60884247,
+        "Longitud":-115.47286844
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.64443989,
+        "Longitud":-115.51678484
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.64231614,
+        "Longitud":-115.39869878
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.62079555,
+        "Longitud":-115.50885507
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.63874883,
+        "Longitud":-115.47130868
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.58647546,
+        "Longitud":-115.43859748
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.58923482,
+        "Longitud":-115.39367254
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.64660345,
+        "Longitud":-115.42340237
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.61383813,
+        "Longitud":-115.35991487
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.59160853,
+        "Longitud":-115.47659228
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":31.89919819,
+        "Longitud":-116.57435605
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":31.86240791,
+        "Longitud":-116.59082579
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":31.72047832,
+        "Longitud":-116.57256026
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.50548262,
+        "Longitud":-116.9334874
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.53784537,
+        "Longitud":-116.91955114
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.63712787,
+        "Longitud":-115.44856346
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.57554861,
+        "Longitud":-116.61327957
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.66389837,
+        "Longitud":-115.41492577
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.55955231,
+        "Longitud":-116.63109023
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.61395855,
+        "Longitud":-115.36528202
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":31.84187634,
+        "Longitud":-116.60276278
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.57324181,
+        "Longitud":-116.6318717
+    },
+    {
+        "nombre":"PINTURAS COMEX",
+        "Latitud":32.63314785,
+        "Longitud":-114.85996832
+    },
+    {
+        "nombre":"PINTURAS COMEX 5 Y 10",
+        "Latitud":32.50231235,
+        "Longitud":-116.96451775
+    },
+    {
+        "nombre":"PINTURAS COMEX AEROPUERTO",
+        "Latitud":32.54184095,
+        "Longitud":-116.99692882
+    },
+    {
+        "nombre":"PINTURAS COMEX AGUACALIENTE II",
+        "Latitud":32.51612153,
+        "Longitud":-117.01263378
+    },
+    {
+        "nombre":"PINTURAS COMEX ALAMOS",
+        "Latitud":32.50871749,
+        "Longitud":-116.96001172
+    },
+    {
+        "nombre":"PINTURAS COMEX ALTA BRISA",
+        "Latitud":32.52957339,
+        "Longitud":-116.97717143
+    },
+    {
+        "nombre":"PINTURAS COMEX AMISTAD",
+        "Latitud":32.53373944,
+        "Longitud":-116.94131589
+    },
+    {
+        "nombre":"PINTURAS COMEX BARCELONA",
+        "Latitud":32.43968418,
+        "Longitud":-116.98676598
+    },
+    {
+        "nombre":"PINTURAS COMEX BELLAS ARTES",
+        "Latitud":32.54344957,
+        "Longitud":-116.94171426
+    },
+    {
+        "nombre":"PINTURAS COMEX CALLE CUARTA",
+        "Latitud":32.53233131,
+        "Longitud":-117.04105342
+    },
+    {
+        "nombre":"PINTURAS COMEX CASA BLANCA",
+        "Latitud":32.4985324,
+        "Longitud":-116.91720715
+    },
+    {
+        "nombre":"PINTURAS COMEX CEDROS",
+        "Latitud":32.43413033,
+        "Longitud":-117.04114085
+    },
+    {
+        "nombre":"PINTURAS COMEX CENTRO",
+        "Latitud":32.53503934,
+        "Longitud":-117.04231423
+    },
+    {
+        "nombre":"PINTURAS COMEX CITY POINT",
+        "Latitud":32.48143327,
+        "Longitud":-116.92723348
+    },
+    {
+        "nombre":"PINTURAS COMEX CLINICA 27",
+        "Latitud":32.48393965,
+        "Longitud":-116.93967637
+    },
+    {
+        "nombre":"PINTURAS COMEX CLOUTHIER",
+        "Latitud":32.49458238,
+        "Longitud":-116.92619161
+    },
+    {
+        "nombre":"PINTURAS COMEX COLINAS DE CALIFORNIA",
+        "Latitud":32.46782154,
+        "Longitud":-117.00494556
+    },
+    {
+        "nombre":"PINTURAS COMEX CUAHUTEMOC",
+        "Latitud":32.4835915,
+        "Longitud":-117.01008064
+    },
+    {
+        "nombre":"PINTURAS COMEX CUCAPAH",
+        "Latitud":32.51367679,
+        "Longitud":-116.88804739
+    },
+    {
+        "nombre":"PINTURAS COMEX DEL MAR",
+        "Latitud":32.53241228,
+        "Longitud":-117.11474022
+    },
+    {
+        "nombre":"PINTURAS COMEX DEL RIO",
+        "Latitud":32.5236172,
+        "Longitud":-117.01877612
+    },
+    {
+        "nombre":"PINTURAS COMEX DELEGACION LA PRESA",
+        "Latitud":32.50427055,
+        "Longitud":-116.86531865
+    },
+    {
+        "nombre":"PINTURAS COMEX DELICIAS 2",
+        "Latitud":32.40474347,
+        "Longitud":-116.94345471
+    },
+    {
+        "nombre":"PINTURAS COMEX EL CAMINO",
+        "Latitud":32.57483285,
+        "Longitud":-116.61095766
+    },
+    {
+        "nombre":"PINTURAS COMEX EL FLORIDO",
+        "Latitud":32.47990345,
+        "Longitud":-116.88012448
+    },
+    {
+        "nombre":"PINTURAS COMEX EL LAGO",
+        "Latitud":32.50537286,
+        "Longitud":-116.93362681
+    },
+    {
+        "nombre":"PINTURAS COMEX FERROCARRIL",
+        "Latitud":32.50962871,
+        "Longitud":-116.97545015
+    },
+    {
+        "nombre":"PINTURAS COMEX FUNDADORES",
+        "Latitud":32.49200465,
+        "Longitud":-117.03060397
+    },
+    {
+        "nombre":"PINTURAS COMEX GABILONDO",
+        "Latitud":32.51663414,
+        "Longitud":-117.0211501
+    },
+    {
+        "nombre":"PINTURAS COMEX GUAYCURA",
+        "Latitud":32.49893175,
+        "Longitud":-116.91743894
+    },
+    {
+        "nombre":"PINTURAS COMEX GUERRERO",
+        "Latitud":32.36027314,
+        "Longitud":-117.04940839
+    },
+    {
+        "nombre":"PINTURAS COMEX IND OTAY 2",
+        "Latitud":32.53351631,
+        "Longitud":-116.9418319
+    },
+    {
+        "nombre":"PINTURAS COMEX INDUSTRIAL OTAY",
+        "Latitud":32.53344761,
+        "Longitud":-116.94197831
+    },
+    {
+        "nombre":"PINTURAS COMEX INSURGENTES 1",
+        "Latitud":32.4831226,
+        "Longitud":-116.92289087
+    },
+    {
+        "nombre":"PINTURAS COMEX INSURGENTES 2",
+        "Latitud":32.48586209,
+        "Longitud":-116.92319825
+    },
+    {
+        "nombre":"PINTURAS COMEX JARDINES LA MESA",
+        "Latitud":32.46345111,
+        "Longitud":-116.92904983
+    },
+    {
+        "nombre":"PINTURAS COMEX JIBARITO",
+        "Latitud":32.48651807,
+        "Longitud":-117.07944298
+    },
+    {
+        "nombre":"PINTURAS COMEX JUAREZ",
+        "Latitud":32.36491958,
+        "Longitud":-117.05981757
+    },
+    {
+        "nombre":"PINTURAS COMEX LA GLORIA",
+        "Latitud":32.44450876,
+        "Longitud":-117.01467213
+    },
+    {
+        "nombre":"PINTURAS COMEX LA MESA",
+        "Latitud":32.50350165,
+        "Longitud":-116.9746596
+    },
+    {
+        "nombre":"PINTURAS COMEX LA VILLA",
+        "Latitud":32.51052763,
+        "Longitud":-117.05653432
+    },
+    {
+        "nombre":"PINTURAS COMEX LA VILLA 2",
+        "Latitud":32.52228238,
+        "Longitud":-117.03537738
+    },
+    {
+        "nombre":"PINTURAS COMEX LAS BRISAS",
+        "Latitud":32.4955615,
+        "Longitud":-116.96100737
+    },
+    {
+        "nombre":"PINTURAS COMEX LAS FUENTES",
+        "Latitud":32.46628675,
+        "Longitud":-116.86426096
+    },
+    {
+        "nombre":"PINTURAS COMEX LAS HUERTAS",
+        "Latitud":32.48779263,
+        "Longitud":-116.94898372
+    },
+    {
+        "nombre":"PINTURAS COMEX LAS TEJAS",
+        "Latitud":32.40104611,
+        "Longitud":-117.05169009
+    },
+    {
+        "nombre":"PINTURAS COMEX LIBERTAD",
+        "Latitud":32.53433623,
+        "Longitud":-117.00791919
+    },
+    {
+        "nombre":"PINTURAS COMEX LIMON",
+        "Latitud":32.50549601,
+        "Longitud":-116.97802821
+    },
+    {
+        "nombre":"PINTURAS COMEX LOMA BONITA",
+        "Latitud":32.48334704,
+        "Longitud":-117.05151739
+    },
+    {
+        "nombre":"PINTURAS COMEX LOMAS HIPODROMO",
+        "Latitud":32.49719114,
+        "Longitud":-116.99312245
+    },
+    {
+        "nombre":"PINTURAS COMEX LOS ALTOS",
+        "Latitud":32.52912393,
+        "Longitud":-117.07412607
+    },
+    {
+        "nombre":"PINTURAS COMEX MACHADO",
+        "Latitud":32.35519567,
+        "Longitud":-117.05918809
+    },
+    {
+        "nombre":"PINTURAS COMEX MACLOVIO",
+        "Latitud":32.46846572,
+        "Longitud":-116.80438377
+    },
+    {
+        "nombre":"PINTURAS COMEX MADERO",
+        "Latitud":32.5296553,
+        "Longitud":-117.03478931
+    },
+    {
+        "nombre":"PINTURAS COMEX MATAMOROS",
+        "Latitud":32.49848825,
+        "Longitud":-116.89128227
+    },
+    {
+        "nombre":"PINTURAS COMEX MIRADOR",
+        "Latitud":32.52709011,
+        "Longitud":-117.08883757
+    },
+    {
+        "nombre":"PINTURAS COMEX MURUA ALAMAR",
+        "Latitud":32.51727762,
+        "Longitud":-116.94595604
+    },
+    {
+        "nombre":"PINTURAS COMEX MURUA CAMPESTRE",
+        "Latitud":32.51935001,
+        "Longitud":-116.94305083
+    },
+    {
+        "nombre":"PINTURAS COMEX OASIS",
+        "Latitud":32.48364932,
+        "Longitud":-116.85046619
+    },
+    {
+        "nombre":"PINTURAS COMEX OTAY",
+        "Latitud":32.52965792,
+        "Longitud":-116.94835374
+    },
+    {
+        "nombre":"PINTURAS COMEX OTAY MODULOS",
+        "Latitud":32.53864675,
+        "Longitud":-116.93048174
+    },
+    {
+        "nombre":"PINTURAS COMEX PACIFICO",
+        "Latitud":32.47677025,
+        "Longitud":-116.99472797
+    },
+    {
+        "nombre":"PINTURAS COMEX PACIFICO INDUSTRIAL",
+        "Latitud":32.46181078,
+        "Longitud":-116.98246815
+    },
+    {
+        "nombre":"PINTURAS COMEX PAPALOTE",
+        "Latitud":32.49694566,
+        "Longitud":-116.93294832
+    },
+    {
+        "nombre":"PINTURAS COMEX PARAISO",
+        "Latitud":32.50878272,
+        "Longitud":-116.98692349
+    },
+    {
+        "nombre":"PINTURAS COMEX PASEO PLAYAS",
+        "Latitud":32.52351943,
+        "Longitud":-117.12011163
+    },
+    {
+        "nombre":"PINTURAS COMEX PLANETARIO",
+        "Latitud":32.48429025,
+        "Longitud":-117.01034673
+    },
+    {
+        "nombre":"PINTURAS COMEX PLAYAS",
+        "Latitud":32.51773873,
+        "Longitud":-117.11620317
+    },
+    {
+        "nombre":"PINTURAS COMEX PLAZA EL REFUGIO",
+        "Latitud":32.45680163,
+        "Longitud":-116.82515116
+    },
+    {
+        "nombre":"PINTURAS COMEX POPOTLA",
+        "Latitud":32.3098127,
+        "Longitud":-117.04506668
+    },
+    {
+        "nombre":"PINTURAS COMEX PORTICOS COLIBRI",
+        "Latitud":32.43412862,
+        "Longitud":-117.04114169
+    },
+    {
+        "nombre":"PINTURAS COMEX PRESIDENTES",
+        "Latitud":32.49005446,
+        "Longitud":-116.90550993
+    },
+    {
+        "nombre":"PINTURAS COMEX PRIMO TAPIA",
+        "Latitud":32.22489882,
+        "Longitud":-116.91798472
+    },
+    {
+        "nombre":"PINTURAS COMEX REAL DEL ROSARITO",
+        "Latitud":32.39366336,
+        "Longitud":-117.01648028
+    },
+    {
+        "nombre":"PINTURAS COMEX REFORMA",
+        "Latitud":32.47338386,
+        "Longitud":-116.9477449
+    },
+    {
+        "nombre":"PINTURAS COMEX REFUGIO",
+        "Latitud":32.46059945,
+        "Longitud":-116.885699
+    },
+    {
+        "nombre":"PINTURAS COMEX REVOLUCION",
+        "Latitud":32.52445494,
+        "Longitud":-117.03576792
+    },
+    {
+        "nombre":"PINTURAS COMEX ROMA",
+        "Latitud":32.52798634,
+        "Longitud":-117.06032576
+    },
+    {
+        "nombre":"PINTURAS COMEX ROSARITO FIESTA",
+        "Latitud":32.33702428,
+        "Longitud":-117.05453088
+    },
+    {
+        "nombre":"PINTURAS COMEX ROSARITO NORTE",
+        "Latitud":32.39549429,
+        "Longitud":-117.05470472
+    },
+    {
+        "nombre":"PINTURAS COMEX RUBI",
+        "Latitud":32.48183237,
+        "Longitud":-117.03621537
+    },
+    {
+        "nombre":"PINTURAS COMEX SANCHEZ TABOADA",
+        "Latitud":32.47790655,
+        "Longitud":-116.9695234
+    },
+    {
+        "nombre":"PINTURAS COMEX SANTA ANITA",
+        "Latitud":32.53793368,
+        "Longitud":-116.90198073
+    },
+    {
+        "nombre":"PINTURAS COMEX SANTAN FE",
+        "Latitud":32.44279026,
+        "Longitud":-117.03519349
+    },
+    {
+        "nombre":"PINTURAS COMEX SOLER",
+        "Latitud":32.53326988,
+        "Longitud":-117.07308506
+    },
+    {
+        "nombre":"PINTURAS COMEX SUCURSAL REFORMA",
+        "Latitud":31.87718977,
+        "Longitud":-116.60975655
+    },
+    {
+        "nombre":"PINTURAS COMEX TECNOLOGICO",
+        "Latitud":32.52897852,
+        "Longitud":-116.98270418
+    },
+    {
+        "nombre":"PINTURAS COMEX TERCERA",
+        "Latitud":32.53333409,
+        "Longitud":-117.04454193
+    },
+    {
+        "nombre":"PINTURAS COMEX TERRAZAS DE LA PRESA",
+        "Latitud":32.45550622,
+        "Longitud":-116.9194821
+    },
+    {
+        "nombre":"PINTURAS COMEX TORRE AGUACALIENTE",
+        "Latitud":32.52198871,
+        "Longitud":-117.03248291
+    },
+    {
+        "nombre":"PINTURAS COMEX UNIVERSIDAD",
+        "Latitud":32.52901482,
+        "Longitud":-116.96931003
+    },
+    {
+        "nombre":"PINTURAS COMEX VALLE DEL SOL",
+        "Latitud":32.47964077,
+        "Longitud":-116.83142434
+    },
+    {
+        "nombre":"PINTURAS COMEX VERONA",
+        "Latitud":32.45083254,
+        "Longitud":-117.03819752
+    },
+    {
+        "nombre":"PINTURAS COMEX VILLA DEL CAMPO",
+        "Latitud":32.5131928,
+        "Longitud":-116.73595734
+    },
+    {
+        "nombre":"PINTURAS COMEX VILLA DEL PRADO",
+        "Latitud":32.42696469,
+        "Longitud":-116.96076408
+    },
+    {
+        "nombre":"PINTURAS COMEX VILLA FLORESTA",
+        "Latitud":32.47929444,
+        "Longitud":-116.93726461
+    },
+    {
+        "nombre":"PINTURAS COMEX VILLAFONTANA",
+        "Latitud":32.5138089,
+        "Longitud":-116.86691627
+    },
+    {
+        "nombre":"PINTURAS COMEX VIRREYES",
+        "Latitud":32.46006437,
+        "Longitud":-116.88881234
+    },
+    {
+        "nombre":"PPG COMEX",
+        "Latitud":32.65827374,
+        "Longitud":-115.43440049
+    },
+    {
+        "nombre":"FARMACIA DEL AHORRO",
+        "Latitud":32.58007415,
+        "Longitud":-115.3675611
+    },
+    {
+        "nombre":"FARMACIA DEL AHORRO",
+        "Latitud":32.50149876,
+        "Longitud":-116.88990467
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO",
+        "Latitud":32.66531249,
+        "Longitud":-115.47941567
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN ML18 18 DE MARZO",
+        "Latitud":32.6246338,
+        "Longitud":-115.43309655
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLAH ANAHUAC",
+        "Latitud":32.61535776,
+        "Longitud":-115.47928073
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLBJ MEXICALI RESIDENCIAS",
+        "Latitud":32.6272266,
+        "Longitud":-115.44482092
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLBU MEXICALI BUGAMBILIAS",
+        "Latitud":32.60211706,
+        "Longitud":-115.374089
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLGF MEXICALI 1271",
+        "Latitud":32.62395503,
+        "Longitud":-115.49756818
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLGF MEXICALI LC 2225",
+        "Latitud":32.62343968,
+        "Longitud":-115.50835085
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLGO MEXICALI GOMEZ MORIN",
+        "Latitud":32.63634536,
+        "Longitud":-115.41370692
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLIN INDEPENDENCIA",
+        "Latitud":32.63817524,
+        "Longitud":-115.44464151
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLIS ISLAS AGRARIAS",
+        "Latitud":32.36457874,
+        "Longitud":-117.05947225
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLLU MEXICALI LUCERNA",
+        "Latitud":32.63773871,
+        "Longitud":-115.44883702
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLMB MEXICALI MADERO B",
+        "Latitud":32.66532898,
+        "Longitud":-115.47919703
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLRC RIO CHAMPOTON",
+        "Latitud":32.60129001,
+        "Longitud":-115.37239782
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLRM RIVIERA MAYA",
+        "Latitud":32.53388366,
+        "Longitud":-117.03865827
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLVF VILLAFONTANA",
+        "Latitud":32.53102711,
+        "Longitud":-117.03816601
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN MLXO MEXICALI XOCHIMILCO",
+        "Latitud":32.60447791,
+        "Longitud":-115.47901889
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIBE TIJUANA BENITEZ",
+        "Latitud":32.50916712,
+        "Longitud":-116.97254592
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TICA CASTRO",
+        "Latitud":32.48809774,
+        "Longitud":-116.94902677
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TICB LAS MISIONES",
+        "Latitud":32.50149737,
+        "Longitud":-116.88987055
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TICC CHAPULTEPEC",
+        "Latitud":32.53088982,
+        "Longitud":-117.03814903
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TICO COCHIMIE",
+        "Latitud":32.48615591,
+        "Longitud":-116.92338466
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIER ERMITA",
+        "Latitud":32.50452691,
+        "Longitud":-116.97589625
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIEZ GOMEZ",
+        "Latitud":32.5107408,
+        "Longitud":-117.02290316
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIGL TIJUANA GOBERNADOR LUGO",
+        "Latitud":32.51656817,
+        "Longitud":-117.02102235
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIJU TIJUANA JUAREZ",
+        "Latitud":32.40753729,
+        "Longitud":-117.04785814
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TILL LLANTERA",
+        "Latitud":32.5225148,
+        "Longitud":-117.02514458
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TILP BENITEZ",
+        "Latitud":32.509085,
+        "Longitud":-116.97266304
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TILP LOPEZ PORTILLO",
+        "Latitud":32.54445891,
+        "Longitud":-116.93004559
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIMT MATAMOROS",
+        "Latitud":32.50115433,
+        "Longitud":-116.88629909
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIPE PLUTARCO ELIAS CALLES",
+        "Latitud":32.52500206,
+        "Longitud":-117.02761886
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIPI NACIONAL PINOS",
+        "Latitud":32.47018831,
+        "Longitud":-116.93308443
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIPN PENINSULA",
+        "Latitud":32.50590585,
+        "Longitud":-116.95436064
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIPR NACIONAL PRIMERA",
+        "Latitud":32.53626485,
+        "Longitud":-117.03860947
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIRI DEL RISCO",
+        "Latitud":32.53135764,
+        "Longitud":-117.11533114
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TISO TIJUANA SOLEDAD",
+        "Latitud":32.51382424,
+        "Longitud":-116.87221673
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TITE NACIONAL TERCERA",
+        "Latitud":32.53388147,
+        "Longitud":-117.03851908
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIVO VOLCANES",
+        "Latitud":32.50262254,
+        "Longitud":-116.96425178
+    },
+    {
+        "nombre":"FARMACIAS DEL AHORRO BCN TIVO VOLCANES AMERICA",
+        "Latitud":32.51656848,
+        "Longitud":-117.02101766
+    },
+    {
+        "nombre":"CONSULTORIO MEDICO FARMACIA DEL AHORRO",
+        "Latitud":32.35339035,
+        "Longitud":-117.05977286
+    },
+    {
+        "nombre":"FARMACIA SIMILAR",
+        "Latitud":32.49333799,
+        "Longitud":-116.91841901
+    },
+    {
+        "nombre":"FARMACIA SIMILARES",
+        "Latitud":32.61003379,
+        "Longitud":-115.37733504
+    },
+    {
+        "nombre":"FARMACIA SIMILARES",
+        "Latitud":32.51133942,
+        "Longitud":-117.05670373
+    },
+    {
+        "nombre":"FARMACIA SIMILARES",
+        "Latitud":32.52361996,
+        "Longitud":-117.03464222
+    },
+    {
+        "nombre":"FARMACIA SIMILARES",
+        "Latitud":32.63027031,
+        "Longitud":-115.50561339
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES",
+        "Latitud":30.56425113,
+        "Longitud":-115.94321883
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES EJIDO PUEBLA II BC",
+        "Latitud":32.56773382,
+        "Longitud":-115.35314935
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES ENSENADA 1",
+        "Latitud":31.86273574,
+        "Longitud":-116.61226018
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES ENSENADA 2",
+        "Latitud":31.86222186,
+        "Longitud":-116.59302062
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES ENSENADA 3",
+        "Latitud":31.84109108,
+        "Longitud":-116.60293691
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES ENSENADA 4",
+        "Latitud":31.85877493,
+        "Longitud":-116.5844704
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES ENSENADA 6",
+        "Latitud":31.86520855,
+        "Longitud":-116.59453977
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES ENSENADA 7",
+        "Latitud":31.86658661,
+        "Longitud":-116.62253595
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES ENSENADA 8",
+        "Latitud":31.86855641,
+        "Longitud":-116.62490401
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 1",
+        "Latitud":32.6616906,
+        "Longitud":-115.49208094
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 10",
+        "Latitud":32.6582609,
+        "Longitud":-115.48078965
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 12",
+        "Latitud":32.65612457,
+        "Longitud":-115.49807068
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 13",
+        "Latitud":32.61409299,
+        "Longitud":-115.4402608
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 16",
+        "Latitud":32.66222749,
+        "Longitud":-115.45234772
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 17",
+        "Latitud":32.62368252,
+        "Longitud":-115.48164302
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 18",
+        "Latitud":32.60779581,
+        "Longitud":-115.47906535
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 19",
+        "Latitud":32.63832469,
+        "Longitud":-115.47077308
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 20",
+        "Latitud":32.62473436,
+        "Longitud":-115.42265084
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 21",
+        "Latitud":32.6637921,
+        "Longitud":-115.49338959
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 23",
+        "Latitud":32.61162941,
+        "Longitud":-115.39527935
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 23",
+        "Latitud":32.61117332,
+        "Longitud":-115.40522114
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 24",
+        "Latitud":32.58954931,
+        "Longitud":-115.39453005
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 25",
+        "Latitud":32.6486416,
+        "Longitud":-115.42404733
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 26",
+        "Latitud":32.64456807,
+        "Longitud":-115.51983546
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 27",
+        "Latitud":32.63096209,
+        "Longitud":-115.46099458
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 28",
+        "Latitud":32.59934488,
+        "Longitud":-115.38900383
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 29",
+        "Latitud":32.62178365,
+        "Longitud":-115.52444699
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 3",
+        "Latitud":32.62491376,
+        "Longitud":-115.43625258
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 30",
+        "Latitud":32.59853555,
+        "Longitud":-115.50618797
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 31",
+        "Latitud":32.64923613,
+        "Longitud":-115.50560154
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 32",
+        "Latitud":32.62314658,
+        "Longitud":-115.38745132
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 35",
+        "Latitud":32.51143756,
+        "Longitud":-114.92070353
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 36",
+        "Latitud":32.63259621,
+        "Longitud":-115.42324815
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 37",
+        "Latitud":32.64525532,
+        "Longitud":-115.49047641
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 37",
+        "Latitud":32.59937309,
+        "Longitud":-115.38900326
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 39",
+        "Latitud":32.66439606,
+        "Longitud":-115.47352551
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 4",
+        "Latitud":32.64409654,
+        "Longitud":-115.50559912
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 40",
+        "Latitud":32.63274626,
+        "Longitud":-115.52279703
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 41",
+        "Latitud":32.65551395,
+        "Longitud":-115.46802113
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 42",
+        "Latitud":32.61198543,
+        "Longitud":-115.39500856
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 43",
+        "Latitud":32.58952924,
+        "Longitud":-115.39447281
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 44",
+        "Latitud":32.64996447,
+        "Longitud":-115.50560538
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 45",
+        "Latitud":32.58849378,
+        "Longitud":-115.44700476
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 46",
+        "Latitud":32.66403453,
+        "Longitud":-115.48062207
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 47",
+        "Latitud":32.59524178,
+        "Longitud":-115.46962603
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 49",
+        "Latitud":32.58337241,
+        "Longitud":-115.37681461
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 5",
+        "Latitud":32.62365886,
+        "Longitud":-115.50188399
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 50",
+        "Latitud":32.5650856,
+        "Longitud":-115.33703279
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 51",
+        "Latitud":32.65524951,
+        "Longitud":-115.48706839
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 52",
+        "Latitud":32.63036729,
+        "Longitud":-115.445937
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 52",
+        "Latitud":32.62969975,
+        "Longitud":-115.44549496
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 53",
+        "Latitud":31.79051209,
+        "Longitud":-116.58651755
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 54",
+        "Latitud":32.57857668,
+        "Longitud":-115.40183908
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 6",
+        "Latitud":32.63918802,
+        "Longitud":-115.43724803
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 7",
+        "Latitud":32.59347019,
+        "Longitud":-115.48147677
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES MEXICALI 8",
+        "Latitud":32.64767084,
+        "Longitud":-115.45266336
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES ROSARITO 1",
+        "Latitud":32.3529996,
+        "Longitud":-117.05851874
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES ROSARITO 3",
+        "Latitud":32.36369192,
+        "Longitud":-117.05960326
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES ROSARITO 4",
+        "Latitud":32.35514553,
+        "Longitud":-117.04841096
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES ROSARITO 5",
+        "Latitud":31.90281669,
+        "Longitud":-116.59505436
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES ROSARITO2",
+        "Latitud":32.36348773,
+        "Longitud":-117.05956256
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TECATE 1",
+        "Latitud":32.57304802,
+        "Longitud":-116.63424287
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TECATE 2",
+        "Latitud":32.57395014,
+        "Longitud":-116.62333785
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TECATE 3",
+        "Latitud":32.56661975,
+        "Longitud":-116.63182454
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TECATE 4",
+        "Latitud":32.56640136,
+        "Longitud":-116.58521229
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 1",
+        "Latitud":32.5353076,
+        "Longitud":-117.0375467
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 10",
+        "Latitud":32.53497209,
+        "Longitud":-117.04311252
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 11",
+        "Latitud":32.49786914,
+        "Longitud":-116.96457466
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 13",
+        "Latitud":32.53152858,
+        "Longitud":-117.03803681
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 15",
+        "Latitud":32.49120207,
+        "Longitud":-116.92877475
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 16",
+        "Latitud":32.52995947,
+        "Longitud":-116.96823177
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 17",
+        "Latitud":32.50457659,
+        "Longitud":-116.88940221
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 18",
+        "Latitud":32.53396644,
+        "Longitud":-117.0392651
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 19",
+        "Latitud":32.53645583,
+        "Longitud":-117.0401221
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 2",
+        "Latitud":32.5001388,
+        "Longitud":-116.96884731
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 20",
+        "Latitud":32.52023688,
+        "Longitud":-117.021648
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 22",
+        "Latitud":32.50425325,
+        "Longitud":-116.97594547
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 23",
+        "Latitud":32.53433244,
+        "Longitud":-117.03694751
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 23",
+        "Latitud":32.49942834,
+        "Longitud":-116.90349594
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 25",
+        "Latitud":32.53380406,
+        "Longitud":-117.00870562
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 26",
+        "Latitud":32.50400801,
+        "Longitud":-116.86495344
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 27",
+        "Latitud":32.51133433,
+        "Longitud":-116.90583459
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 28",
+        "Latitud":32.50010853,
+        "Longitud":-116.96824491
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 29",
+        "Latitud":32.53780409,
+        "Longitud":-116.9200936
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 29",
+        "Latitud":32.44480352,
+        "Longitud":-116.92438853
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 3",
+        "Latitud":32.52454633,
+        "Longitud":-117.03258943
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 30",
+        "Latitud":32.48439725,
+        "Longitud":-116.92291348
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 31",
+        "Latitud":32.52358252,
+        "Longitud":-117.0345894
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 32",
+        "Latitud":32.49942441,
+        "Longitud":-116.90067087
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 33",
+        "Latitud":32.50129162,
+        "Longitud":-116.88224091
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 34",
+        "Latitud":32.48208299,
+        "Longitud":-116.87260865
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 35",
+        "Latitud":32.42081945,
+        "Longitud":-116.96982581
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 36",
+        "Latitud":32.46350236,
+        "Longitud":-116.92404996
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 37",
+        "Latitud":32.50131781,
+        "Longitud":-116.89200169
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 38",
+        "Latitud":32.5136741,
+        "Longitud":-116.88786349
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 39",
+        "Latitud":32.50669749,
+        "Longitud":-116.8779023
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 4",
+        "Latitud":32.4981631,
+        "Longitud":-116.96759731
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 40",
+        "Latitud":32.53109847,
+        "Longitud":-117.01154307
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 41",
+        "Latitud":32.54234956,
+        "Longitud":-116.99772383
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 43",
+        "Latitud":32.48774443,
+        "Longitud":-116.88106969
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 45",
+        "Latitud":32.4444617,
+        "Longitud":-117.00879832
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 5",
+        "Latitud":32.53254807,
+        "Longitud":-117.04033032
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 6",
+        "Latitud":32.49495442,
+        "Longitud":-116.88459989
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 7",
+        "Latitud":32.51367718,
+        "Longitud":-116.87660848
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 7",
+        "Latitud":32.51376353,
+        "Longitud":-116.86966397
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 8",
+        "Latitud":32.53237133,
+        "Longitud":-117.07286632
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 9",
+        "Latitud":32.49413059,
+        "Longitud":-116.95859928
+    },
+    {
+        "nombre":"FARMACIAS DE SIMILARES TIJUANA 9",
+        "Latitud":32.47795307,
+        "Longitud":-116.96999891
+    },
+    {
+        "nombre":"FARMACIAS GI SIMILARES",
+        "Latitud":32.57232269,
+        "Longitud":-115.37068068
+    },
+    {
+        "nombre":"FARMACIAS SIMILARES",
+        "Latitud":32.48877611,
+        "Longitud":-116.82715113
+    },
+    {
+        "nombre":"FARMACIAS SIMILARES",
+        "Latitud":32.46860697,
+        "Longitud":-116.84928913
+    },
+    {
+        "nombre":"FARMACIAS SIMILARES",
+        "Latitud":32.4834297,
+        "Longitud":-117.03547381
+    },
+    {
+        "nombre":"FARMACIAS SIMILARES",
+        "Latitud":32.58969331,
+        "Longitud":-115.39494069
+    },
+    {
+        "nombre":"FARMACIAS SIMILARES",
+        "Latitud":32.48783617,
+        "Longitud":-116.88109804
+    },
+    {
+        "nombre":"FARMACIAS SIMILARES",
+        "Latitud":32.65550157,
+        "Longitud":-115.46801986
+    },
+    {
+        "nombre":"FARMACIAS SIMILARES 143",
+        "Latitud":32.53504913,
+        "Longitud":-117.0336807
+    },
+    {
+        "nombre":"SIMI FARMACIA",
+        "Latitud":32.65891672,
+        "Longitud":-115.422835
+    },
+    {
+        "nombre":"LITTLE CAESARS",
+        "Latitud":32.57789245,
+        "Longitud":-115.3633183
+    },
+    {
+        "nombre":"LITTLE CAESARS",
+        "Latitud":31.82327101,
+        "Longitud":-116.5993863
+    },
+    {
+        "nombre":"LITTLE CAESARS",
+        "Latitud":32.62893473,
+        "Longitud":-115.44548652
+    },
+    {
+        "nombre":"LITTLE CAESARS",
+        "Latitud":32.54102946,
+        "Longitud":-116.99731109
+    },
+    {
+        "nombre":"LITTLE CAESARS ANAHUAC",
+        "Latitud":32.59351621,
+        "Longitud":-115.4765395
+    },
+    {
+        "nombre":"LITTLE CAESARS BENITO JUAREZ",
+        "Latitud":32.62820848,
+        "Longitud":-115.44520087
+    },
+    {
+        "nombre":"LITTLE CAESARS CASA BLANCA",
+        "Latitud":32.49898278,
+        "Longitud":-116.90579043
+    },
+    {
+        "nombre":"LITTLE CAESARS CEDROS",
+        "Latitud":32.43299715,
+        "Longitud":-117.04233517
+    },
+    {
+        "nombre":"LITTLE CAESARS CUCAPA",
+        "Latitud":32.51365134,
+        "Longitud":-116.88671871
+    },
+    {
+        "nombre":"LITTLE CAESARS CUCAPAH",
+        "Latitud":32.51367077,
+        "Longitud":-116.8876335
+    },
+    {
+        "nombre":"LITTLE CAESARS DELICIAS",
+        "Latitud":32.40706379,
+        "Longitud":-116.94194181
+    },
+    {
+        "nombre":"LITTLE CAESARS DIAZ ORDAZ",
+        "Latitud":32.49605207,
+        "Longitud":-116.9618144
+    },
+    {
+        "nombre":"LITTLE CAESARS EL PRADO",
+        "Latitud":32.50899279,
+        "Longitud":-116.98726193
+    },
+    {
+        "nombre":"LITTLE CAESARS FLORIDO",
+        "Latitud":32.48978608,
+        "Longitud":-116.85119712
+    },
+    {
+        "nombre":"LITTLE CAESARS FUNDADORES",
+        "Latitud":32.48126174,
+        "Longitud":-117.03614958
+    },
+    {
+        "nombre":"LITTLE CAESARS INSURGENTES",
+        "Latitud":32.47823536,
+        "Longitud":-116.92183135
+    },
+    {
+        "nombre":"LITTLE CAESARS JIBARITO",
+        "Latitud":32.48644151,
+        "Longitud":-117.07935116
+    },
+    {
+        "nombre":"LITTLE CAESARS LA GLORIA",
+        "Latitud":32.44543129,
+        "Longitud":-117.01564257
+    },
+    {
+        "nombre":"LITTLE CAESARS LA MESA",
+        "Latitud":32.46467419,
+        "Longitud":-116.92991088
+    },
+    {
+        "nombre":"LITTLE CAESARS LA PAJARITA",
+        "Latitud":32.44417326,
+        "Longitud":-117.03513805
+    },
+    {
+        "nombre":"LITTLE CAESARS LAS ABEJAS",
+        "Latitud":32.47449262,
+        "Longitud":-116.86036302
+    },
+    {
+        "nombre":"LITTLE CAESARS LAS FUENTES",
+        "Latitud":32.4654424,
+        "Longitud":-116.8651515
+    },
+    {
+        "nombre":"LITTLE CAESARS LIBERTAD",
+        "Latitud":32.5301015,
+        "Longitud":-117.01158639
+    },
+    {
+        "nombre":"LITTLE CAESARS LOS PINOS",
+        "Latitud":32.4610841,
+        "Longitud":-116.92620609
+    },
+    {
+        "nombre":"LITTLE CAESARS MACLOVIO",
+        "Latitud":32.46748243,
+        "Longitud":-116.80436033
+    },
+    {
+        "nombre":"LITTLE CAESARS MACROPLAZA",
+        "Latitud":31.82194612,
+        "Longitud":-116.5988786
+    },
+    {
+        "nombre":"LITTLE CAESARS MADERO",
+        "Latitud":32.52371709,
+        "Longitud":-117.03391319
+    },
+    {
+        "nombre":"LITTLE CAESARS MARIANO",
+        "Latitud":32.48032941,
+        "Longitud":-116.88035698
+    },
+    {
+        "nombre":"LITTLE CAESARS NATURA",
+        "Latitud":32.37742834,
+        "Longitud":-116.93542135
+    },
+    {
+        "nombre":"LITTLE CAESARS NOVENA",
+        "Latitud":32.61084188,
+        "Longitud":-115.38654769
+    },
+    {
+        "nombre":"LITTLE CAESARS NUEVO MEXICALI",
+        "Latitud":32.61027458,
+        "Longitud":-115.38603489
+    },
+    {
+        "nombre":"LITTLE CAESARS OFICINAS 1",
+        "Latitud":32.52488705,
+        "Longitud":-117.01437952
+    },
+    {
+        "nombre":"LITTLE CAESARS OFICINAS ADMINISTRATIVAS",
+        "Latitud":32.52499202,
+        "Longitud":-117.01428328
+    },
+    {
+        "nombre":"LITTLE CAESARS OTAY",
+        "Latitud":32.53156292,
+        "Longitud":-116.95820412
+    },
+    {
+        "nombre":"LITTLE CAESARS PABELLON",
+        "Latitud":32.3763324,
+        "Longitud":-117.06085469
+    },
+    {
+        "nombre":"LITTLE CAESARS PACIFICO",
+        "Latitud":32.47640697,
+        "Longitud":-116.99520952
+    },
+    {
+        "nombre":"LITTLE CAESARS PANAMERICANO",
+        "Latitud":32.45924045,
+        "Longitud":-117.00124513
+    },
+    {
+        "nombre":"LITTLE CAESARS PAPALOTE",
+        "Latitud":32.49702758,
+        "Longitud":-116.93301896
+    },
+    {
+        "nombre":"LITTLE CAESARS PASEO 2000",
+        "Latitud":32.49322245,
+        "Longitud":-116.85039348
+    },
+    {
+        "nombre":"LITTLE CAESARS PIZZA",
+        "Latitud":32.45387772,
+        "Longitud":-116.8370304
+    },
+    {
+        "nombre":"LITTLE CAESARS PIZZA PABELLÓN",
+        "Latitud":32.37354941,
+        "Longitud":-117.05961658
+    },
+    {
+        "nombre":"LITTLE CAESARS PLAYAS",
+        "Latitud":32.53178563,
+        "Longitud":-117.11492669
+    },
+    {
+        "nombre":"LITTLE CAESARS PLAZA FIESTA",
+        "Latitud":32.48531219,
+        "Longitud":-116.94324549
+    },
+    {
+        "nombre":"LITTLE CAESARS PUEBLO NUEVO",
+        "Latitud":32.6444834,
+        "Longitud":-115.51962201
+    },
+    {
+        "nombre":"LITTLE CAESARS REAL DE ROSARITO",
+        "Latitud":32.39311844,
+        "Longitud":-117.01409036
+    },
+    {
+        "nombre":"LITTLE CAESARS REFORMA",
+        "Latitud":31.85213594,
+        "Longitud":-116.60482383
+    },
+    {
+        "nombre":"LITTLE CAESARS REFORMA",
+        "Latitud":32.47347236,
+        "Longitud":-116.94782985
+    },
+    {
+        "nombre":"LITTLE CAESARS SALINAS",
+        "Latitud":32.51553028,
+        "Longitud":-117.01015137
+    },
+    {
+        "nombre":"LITTLE CAESARS SANCHEZ",
+        "Latitud":32.47803787,
+        "Longitud":-116.96913905
+    },
+    {
+        "nombre":"LITTLE CAESARS SENDERO",
+        "Latitud":32.4541171,
+        "Longitud":-116.83644242
+    },
+    {
+        "nombre":"LITTLE CAESARS SOLER",
+        "Latitud":32.53158894,
+        "Longitud":-117.07158868
+    },
+    {
+        "nombre":"LITTLE CAESARS TECATE",
+        "Latitud":32.56616629,
+        "Longitud":-116.63187381
+    },
+    {
+        "nombre":"LITTLE CAESARS TERAN TERAN",
+        "Latitud":32.53506878,
+        "Longitud":-116.90214919
+    },
+    {
+        "nombre":"LITTLE CAESARS URBIVILLA DEL PRADO",
+        "Latitud":32.40630516,
+        "Longitud":-116.96356582
+    },
+    {
+        "nombre":"LITTLE CAESARS VALLE DE PUEBLA",
+        "Latitud":32.57795629,
+        "Longitud":-115.36173162
+    },
+    {
+        "nombre":"LITTLE CAESARS VILLA",
+        "Latitud":32.5125613,
+        "Longitud":-117.05709838
+    },
+    {
+        "nombre":"LITTLE CAESARS VILLA DEL CAMPO",
+        "Latitud":32.51330638,
+        "Longitud":-116.73615095
+    },
+    {
+        "nombre":"LITTLE CAESARS VILLAFONTANA",
+        "Latitud":32.51308364,
+        "Longitud":-116.86574945
+    },
+    {
+        "nombre":"LITTLE CAESARS VILLANOVA",
+        "Latitud":32.62368432,
+        "Longitud":-115.49347306
+    },
+    {
+        "nombre":"LITTLE CAESARS VIRREYES",
+        "Latitud":32.46002941,
+        "Longitud":-116.88894318
+    },
+    {
+        "nombre":"LITTLE CAESARS VISTA HERMOSA",
+        "Latitud":32.65704798,
+        "Longitud":-115.41631843
+    },
+    {
+        "nombre":"PIZZAS LITTLE CAESARS",
+        "Latitud":32.5661143,
+        "Longitud":-116.631829
+    },
+    {
+        "nombre":"PIZZAS LITTLE CAESARS",
+        "Latitud":32.44734664,
+        "Longitud":-117.03439132
+    },
+    {
+        "nombre":"PIZZAS LITTLE CAESARS",
+        "Latitud":32.64440844,
+        "Longitud":-115.5191807
+    },
+    {
+        "nombre":"LABORATORIO CLINICO LSG",
+        "Latitud":32.6266,
+        "Longitud":-115.4524
+    },
+    {
+        "nombre":"LABORATORIO CLINICO LSG",
+        "Latitud":32.6558,
+        "Longitud":-115.4135
+    },
+    {
+        "nombre":"COSTCO DE MEXICO SUCURSAL ENSENADA",
+        "Latitud":31.8178048,
+        "Longitud":-116.59794927
+    },
+    {
+        "nombre":"COSTCO DE MEXICO SUCURSAL TIJUANA I",
+        "Latitud":32.53100205,
+        "Longitud":-117.02902852
+    },
+    {
+        "nombre":"COTSCO DE MEXICO SUCURSAL 752 TIJUANA",
+        "Latitud":32.50893937,
+        "Longitud":-116.96293632
+    },
+    {
+        "nombre":"COTSCO DE MEXICO SUCURSAL MEXICALI",
+        "Latitud":32.6074812,
+        "Longitud":-115.43258191
+    },
+    {
+        "nombre":"APRECIO",
+        "Latitud":32.42699424,
+        "Longitud":-116.96193703
+    },
+    {
+        "nombre":"APRECIO AMANECER",
+        "Latitud":32.3669535,
+        "Longitud":-116.91760592
+    },
+    {
+        "nombre":"APRECIO ANGELES DE PUEBLA",
+        "Latitud":32.56693868,
+        "Longitud":-115.33640824
+    },
+    {
+        "nombre":"APRECIO CAPISTRANO TIENDA 48",
+        "Latitud":32.4883059,
+        "Longitud":-116.91830511
+    },
+    {
+        "nombre":"APRECIO CASTILLO",
+        "Latitud":31.86497169,
+        "Longitud":-116.61865221
+    },
+    {
+        "nombre":"APRECIO COLINAS DE LA PRESA",
+        "Latitud":32.45554357,
+        "Longitud":-116.92021537
+    },
+    {
+        "nombre":"APRECIO EL NIÑO",
+        "Latitud":32.5006836,
+        "Longitud":-116.79445981
+    },
+    {
+        "nombre":"APRECIO JARDINES NUM 10",
+        "Latitud":32.46127644,
+        "Longitud":-116.92639913
+    },
+    {
+        "nombre":"APRECIO LA GLORIA",
+        "Latitud":32.44648204,
+        "Longitud":-116.99769439
+    },
+    {
+        "nombre":"APRECIO NATURA 129",
+        "Latitud":32.3773597,
+        "Longitud":-116.93541179
+    },
+    {
+        "nombre":"APRECIO NUEVO REFORMA",
+        "Latitud":31.88072257,
+        "Longitud":-116.57803317
+    },
+    {
+        "nombre":"APRECIO PEDREGAL NUM 519",
+        "Latitud":32.57985287,
+        "Longitud":-115.36594223
+    },
+    {
+        "nombre":"APRECIO PORTALES NUM 522",
+        "Latitud":32.59525158,
+        "Longitud":-115.49650103
+    },
+    {
+        "nombre":"APRECIO RIVERA CAMPESTRE",
+        "Latitud":32.58451035,
+        "Longitud":-115.42939824
+    },
+    {
+        "nombre":"APRECIO ROSARITO",
+        "Latitud":32.36436265,
+        "Longitud":-117.05483009
+    },
+    {
+        "nombre":"APRECIO SANTA ISABEL",
+        "Latitud":32.62218305,
+        "Longitud":-115.56308927
+    },
+    {
+        "nombre":"APRECIO TERRAZAS DEL VALLE",
+        "Latitud":32.49067549,
+        "Longitud":-116.84227701
+    },
+    {
+        "nombre":"APRECIO VALLE DEL SOL",
+        "Latitud":32.48085318,
+        "Longitud":-116.83165095
+    },
+    {
+        "nombre":"APRECIO VILLA DEL REAL",
+        "Latitud":31.77260809,
+        "Longitud":-116.57672966
+    },
+    {
+        "nombre":"APRECIO VILLAS DEL PRADO 2",
+        "Latitud":32.42888889,
+        "Longitud":-116.96222221
+    },
+    {
+        "nombre":"CALIMAX",
+        "Latitud":30.53136874,
+        "Longitud":-115.93268545
+    },
+    {
+        "nombre":"CALIMAX",
+        "Latitud":32.63922805,
+        "Longitud":-115.43325827
+    },
+    {
+        "nombre":"CALIMAX ALAMAR",
+        "Latitud":32.52539792,
+        "Longitud":-116.93474165
+    },
+    {
+        "nombre":"CALIMAX ALTABRISA NUM 23",
+        "Latitud":32.52985585,
+        "Longitud":-116.97345083
+    },
+    {
+        "nombre":"CALIMAX BODEGON ABEJA",
+        "Latitud":32.47492571,
+        "Longitud":-116.86052588
+    },
+    {
+        "nombre":"CALIMAX BOULEVARD NUM 2",
+        "Latitud":32.52101784,
+        "Longitud":-117.02260007
+    },
+    {
+        "nombre":"CALIMAX CALLE SEGUNDA NUM 4",
+        "Latitud":32.53446282,
+        "Longitud":-117.04896178
+    },
+    {
+        "nombre":"CALIMAX CETYS MEXICALI NUM 517",
+        "Latitud":32.65712596,
+        "Longitud":-115.41723581
+    },
+    {
+        "nombre":"CALIMAX CHAPULTEPEC II",
+        "Latitud":31.78332782,
+        "Longitud":-116.59890599
+    },
+    {
+        "nombre":"CALIMAX CHAPULTEPEC NUM 710",
+        "Latitud":31.78365134,
+        "Longitud":-116.58521435
+    },
+    {
+        "nombre":"CALIMAX CONSTITUCION NUM 18",
+        "Latitud":32.53540435,
+        "Longitud":-117.03870041
+    },
+    {
+        "nombre":"CALIMAX CORTEZ NUM 707",
+        "Latitud":31.86219745,
+        "Longitud":-116.59227677
+    },
+    {
+        "nombre":"CALIMAX DEL BOSQUE NUM 40",
+        "Latitud":32.50651899,
+        "Longitud":-116.84398972
+    },
+    {
+        "nombre":"CALIMAX DELEGACION NUM 32",
+        "Latitud":32.504534,
+        "Longitud":-116.86568515
+    },
+    {
+        "nombre":"CALIMAX DIAZ ORDAZ",
+        "Latitud":32.5052986,
+        "Longitud":-116.97771269
+    },
+    {
+        "nombre":"CALIMAX EDIFICIO GILT",
+        "Latitud":32.52834614,
+        "Longitud":-117.0244018
+    },
+    {
+        "nombre":"CALIMAX EL DORADO NUM 38",
+        "Latitud":32.4913467,
+        "Longitud":-116.85621122
+    },
+    {
+        "nombre":"CALIMAX EL REFUGIO NUM 44",
+        "Latitud":32.46678301,
+        "Longitud":-116.82012343
+    },
+    {
+        "nombre":"CALIMAX ESMERALDA NUM 709",
+        "Latitud":31.84817064,
+        "Longitud":-116.59093554
+    },
+    {
+        "nombre":"CALIMAX FIESTA NUM 11",
+        "Latitud":32.48531829,
+        "Longitud":-116.94326835
+    },
+    {
+        "nombre":"CALIMAX FLORIDO NUM 21",
+        "Latitud":32.48035058,
+        "Longitud":-116.88038839
+    },
+    {
+        "nombre":"CALIMAX FUNDADORES NUM 15",
+        "Latitud":32.48140569,
+        "Longitud":-117.03610603
+    },
+    {
+        "nombre":"CALIMAX HIDALGO",
+        "Latitud":32.6141002,
+        "Longitud":-115.45450237
+    },
+    {
+        "nombre":"CALIMAX HIDALGO NUM 14",
+        "Latitud":32.57258023,
+        "Longitud":-116.62335204
+    },
+    {
+        "nombre":"CALIMAX HIPODROMO NUM 16",
+        "Latitud":32.5098382,
+        "Longitud":-116.99539133
+    },
+    {
+        "nombre":"CALIMAX JIBARITO",
+        "Latitud":32.48174538,
+        "Longitud":-117.07453595
+    },
+    {
+        "nombre":"CALIMAX JUAREZ NUM 13",
+        "Latitud":32.57296011,
+        "Longitud":-116.63370779
+    },
+    {
+        "nombre":"CALIMAX LA MESA NUM 6",
+        "Latitud":32.49727882,
+        "Longitud":-116.96385079
+    },
+    {
+        "nombre":"CALIMAX LA PRESA NUM 711",
+        "Latitud":31.89423635,
+        "Longitud":-116.58011767
+    },
+    {
+        "nombre":"CALIMAX LA VILLA",
+        "Latitud":32.51492538,
+        "Longitud":-117.05784631
+    },
+    {
+        "nombre":"CALIMAX LAS ABEJAS",
+        "Latitud":32.47616198,
+        "Longitud":-116.86089307
+    },
+    {
+        "nombre":"CALIMAX LAS AMERICAS",
+        "Latitud":32.66332355,
+        "Longitud":-115.43417252
+    },
+    {
+        "nombre":"CALIMAX LAS DELICIAS",
+        "Latitud":32.40739889,
+        "Longitud":-116.94439454
+    },
+    {
+        "nombre":"CALIMAX LAS FUENTES",
+        "Latitud":32.46879573,
+        "Longitud":-116.84876452
+    },
+    {
+        "nombre":"CALIMAX LAS TORRES",
+        "Latitud":32.5520328,
+        "Longitud":-116.90057278
+    },
+    {
+        "nombre":"CALIMAX LAUREL 2",
+        "Latitud":32.46111808,
+        "Longitud":-116.83840205
+    },
+    {
+        "nombre":"CALIMAX LAUREL NUM 39",
+        "Latitud":32.46320168,
+        "Longitud":-116.88074832
+    },
+    {
+        "nombre":"CALIMAX LAZARO CARDENAS ESTE",
+        "Latitud":32.62369299,
+        "Longitud":-115.47605645
+    },
+    {
+        "nombre":"CALIMAX LIBERTAD PARTE BAJA",
+        "Latitud":32.53388977,
+        "Longitud":-117.01003006
+    },
+    {
+        "nombre":"CALIMAX LOMA BONITA NUM 37",
+        "Latitud":32.48343235,
+        "Longitud":-117.05206843
+    },
+    {
+        "nombre":"CALIMAX LOMAS NUM 27",
+        "Latitud":32.49806337,
+        "Longitud":-116.9885923
+    },
+    {
+        "nombre":"CALIMAX MANEADERO NUM 712",
+        "Latitud":31.72862275,
+        "Longitud":-116.57825543
+    },
+    {
+        "nombre":"CALIMAX MATAMOROS NUM 17",
+        "Latitud":32.49863348,
+        "Longitud":-116.8908892
+    },
+    {
+        "nombre":"CALIMAX MIRAMAR",
+        "Latitud":32.52146681,
+        "Longitud":-117.08724304
+    },
+    {
+        "nombre":"CALIMAX MONTE SAN ANTONIO",
+        "Latitud":32.50121986,
+        "Longitud":-117.04180067
+    },
+    {
+        "nombre":"CALIMAX MONTECARLO NUM 521",
+        "Latitud":32.64141891,
+        "Longitud":-115.399346
+    },
+    {
+        "nombre":"CALIMAX MONTESINOS",
+        "Latitud":32.48749888,
+        "Longitud":-117.01095834
+    },
+    {
+        "nombre":"CALIMAX MURUA",
+        "Latitud":32.517382,
+        "Longitud":-116.93362438
+    },
+    {
+        "nombre":"CALIMAX NUEVO OTAY NUM 28",
+        "Latitud":32.5368327,
+        "Longitud":-116.92912277
+    },
+    {
+        "nombre":"CALIMAX OLIVOS NUM 41",
+        "Latitud":32.56166481,
+        "Longitud":-116.62532368
+    },
+    {
+        "nombre":"CALIMAX PACIFICO",
+        "Latitud":32.46250877,
+        "Longitud":-116.98384
+    },
+    {
+        "nombre":"CALIMAX PLAYAS NUM 22",
+        "Latitud":32.53009536,
+        "Longitud":-117.11786524
+    },
+    {
+        "nombre":"CALIMAX QUINTA NUM 3",
+        "Latitud":32.53156801,
+        "Longitud":-117.0396169
+    },
+    {
+        "nombre":"CALIMAX REFORMA NUM 33",
+        "Latitud":32.47287367,
+        "Longitud":-116.948085
+    },
+    {
+        "nombre":"CALIMAX RIBERAS DEL BOSQUE",
+        "Latitud":32.52606477,
+        "Longitud":-116.87367297
+    },
+    {
+        "nombre":"CALIMAX RIO NUM 5",
+        "Latitud":32.52428176,
+        "Longitud":-117.01726861
+    },
+    {
+        "nombre":"CALIMAX ROMA",
+        "Latitud":32.52803059,
+        "Longitud":-117.06011761
+    },
+    {
+        "nombre":"CALIMAX ROSARITO NORTE NUM 42",
+        "Latitud":32.3915092,
+        "Longitud":-117.05592298
+    },
+    {
+        "nombre":"CALIMAX ROSARITO NUM 8",
+        "Latitud":32.35135174,
+        "Longitud":-117.06003445
+    },
+    {
+        "nombre":"CALIMAX SAN FELIPE",
+        "Latitud":31.02634871,
+        "Longitud":-114.84563604
+    },
+    {
+        "nombre":"CALIMAX SAN QUINTIN",
+        "Latitud":30.53075814,
+        "Longitud":-115.93249191
+    },
+    {
+        "nombre":"CALIMAX SANCHEZ TABOADA NUM 20",
+        "Latitud":32.46878884,
+        "Longitud":-116.97113052
+    },
+    {
+        "nombre":"CALIMAX SANTA BARBARA NUM 503",
+        "Latitud":32.64621439,
+        "Longitud":-115.52263094
+    },
+    {
+        "nombre":"CALIMAX SANTA FE NUM 35",
+        "Latitud":32.44252804,
+        "Longitud":-117.03502367
+    },
+    {
+        "nombre":"CALIMAX SAUZAL",
+        "Latitud":31.88760437,
+        "Longitud":-116.68866949
+    },
+    {
+        "nombre":"CALIMAX SOLER NUM 1",
+        "Latitud":32.53155251,
+        "Longitud":-117.07214879
+    },
+    {
+        "nombre":"CALIMAX VALLE DORADO NUM 708",
+        "Latitud":31.82691995,
+        "Longitud":-116.60013851
+    },
+    {
+        "nombre":"CALIMAX VALLE VERDE NUM 704",
+        "Latitud":31.87847819,
+        "Longitud":-116.61003711
+    },
+    {
+        "nombre":"CALIMAX VICENTE GUERRERO",
+        "Latitud":30.73151593,
+        "Longitud":-115.98996786
+    },
+    {
+        "nombre":"CALIMAX VILLA DEL CAMPO TIENDA 47",
+        "Latitud":32.50738731,
+        "Longitud":-116.73319377
+    },
+    {
+        "nombre":"CALIMAX VILLA DEL PRADO I",
+        "Latitud":32.41055376,
+        "Longitud":-116.96654487
+    },
+    {
+        "nombre":"CALIMAX VILLA FLORESTA NUM 25",
+        "Latitud":32.3696167,
+        "Longitud":-117.06093857
+    },
+    {
+        "nombre":"CALIMAX VILLA FONTANA NUM 24",
+        "Latitud":32.51380349,
+        "Longitud":-116.86725426
+    },
+    {
+        "nombre":"CALIMAX VILLA VERDE NUM 520",
+        "Latitud":32.60606773,
+        "Longitud":-115.38017762
+    },
+    {
+        "nombre":"CALIMAX XOCHIMILCO NUM 502",
+        "Latitud":32.60533017,
+        "Longitud":-115.47854888
+    },
+    {
+        "nombre":"CALIMAX XOCHIMILCO SUR",
+        "Latitud":32.57999248,
+        "Longitud":-115.47182575
+    },
+    {
+        "nombre":"CALIMAX ZARAGOZA NUM 513",
+        "Latitud":32.66163867,
+        "Longitud":-115.45793044
+    },
+    {
+        "nombre":"CENTRAL DETALLISTA",
+        "Latitud":32.56249055,
+        "Longitud":-116.62564064
+    },
+    {
+        "nombre":"CENTRO DE DISTRIBUCION NUM 70",
+        "Latitud":32.44378027,
+        "Longitud":-116.8891587
+    },
+    {
+        "nombre":"COLINAS DE CALIFORNIA",
+        "Latitud":32.47071948,
+        "Longitud":-117.00281146
+    },
+    {
+        "nombre":"VILLAS DEL PRADO II NUM 713",
+        "Latitud":31.90256232,
+        "Longitud":-116.59256307
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC ALTABRISAS",
+        "Latitud":32.52980717,
+        "Longitud":-116.97407008
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC BRISAS",
+        "Latitud":32.49458777,
+        "Longitud":-116.95895785
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC CENTRO",
+        "Latitud":32.53181537,
+        "Longitud":-117.0470485
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC CONQUISTADOR",
+        "Latitud":32.51465212,
+        "Longitud":-117.00802202
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC CRUZ ROJA",
+        "Latitud":32.50697906,
+        "Longitud":-116.96418232
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC DUARA",
+        "Latitud":32.65349765,
+        "Longitud":-115.37927982
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC FIESTA",
+        "Latitud":32.48527207,
+        "Longitud":-116.94309512
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC HIPODROMO",
+        "Latitud":32.50971794,
+        "Longitud":-116.99479509
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC KINO",
+        "Latitud":32.52733521,
+        "Longitud":-117.00929132
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC PLAYAS",
+        "Latitud":32.53007498,
+        "Longitud":-117.11411063
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC RIO",
+        "Latitud":32.5263358,
+        "Longitud":-117.02022533
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC ROSARITO",
+        "Latitud":32.34070288,
+        "Longitud":-117.05631158
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC SANTA FE",
+        "Latitud":32.44283538,
+        "Longitud":-117.03533762
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC SOLER",
+        "Latitud":32.53156934,
+        "Longitud":-117.07145755
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC TECATE",
+        "Latitud":32.57271099,
+        "Longitud":-116.63463669
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC VILLAFONTANA",
+        "Latitud":32.51381162,
+        "Longitud":-116.86674623
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC VILLANOVA",
+        "Latitud":32.62362203,
+        "Longitud":-115.49756271
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC VIRREYES",
+        "Latitud":32.45994821,
+        "Longitud":-116.88924709
+    },
+    {
+        "nombre":"CERUS LABORATORIO SUC HOSPITAL DE LA MUJER Y EL NIÑO",
+        "Latitud":32.5216846,
+        "Longitud":-117.01469075
+    },
+    {
+        "nombre":"CERUS LABORATORIO SUC PARIS",
+        "Latitud":32.66525186,
+        "Longitud":-115.48265326
+    },
+    {
+        "nombre":"CERUS LABORATORIO SUC TERCERA ETAPA",
+        "Latitud":32.4774,
+        "Longitud":-116.9276
+    },
+    {
+        "nombre":"CERUS LABORATORIO SUC CACHO",
+        "Latitud":32.520255,
+        "Longitud":-117.023808
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC CALLE 10",
+        "Latitud":31.8744,
+        "Longitud":-116.6274
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC LAS OLAS",
+        "Latitud":31.8533,
+        "Longitud":-116.6056
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC GIRAMAR",
+        "Latitud":32.3672,
+        "Longitud":-117.0606
+    },
+    {
+        "nombre":"CERTUS LABORATORIO SUC PRADO",
+        "Latitud":32.5099,
+        "Longitud":-116.9898
+    }
+]
